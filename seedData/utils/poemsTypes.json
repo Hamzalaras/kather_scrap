@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name_ar": "عمودية",
+    "name_en": "amudi",
+    "aliases": [
+      "عموديه",
+      "الشعر العمودي",
+      "شعر عمودي",
+      "العمودي",
+      "عمودي",
+      "classic",
+      "classical",
+      "traditional",
+      "al amudi",
+      "el amudi",
+      "monorhymed",
+      "vertical"
+    ]
+  },
+  {
+    "id": 2,
+    "name_ar": "نثرية",
+    "name_en": "prose",
+    "aliases": [
+      "النثر",
+      "نثريه",
+      "الشعر النثري",
+      "شعر نثري",
+      "النثر الشعري",
+      "نثر شعر",
+      "literary",
+      "literal"
+    ]
+  },
+  {
+    "id": 3,
+    "name_ar": "التفعيلة",
+    "name_en": "tafila",
+    "aliases": [
+      "تفعيله",
+      "الشعر التفعيلي",
+      "شعر التفعيلة",
+      "التفعيله",
+      "تفعيلي",
+      "free",
+      "new",
+      "modern",
+      "libre"
+    ]
+  },
+  {
+    "id": 4,
+    "name_ar": "مترجمة",
+    "name_en": "foreign",
+    "aliases": [
+      "المترجمة",
+      "المترجمه",
+      "مترجمه",
+      "المترجم",
+      "مترجم",
+      "translated",
+      "translation",
+      "west"
+    ]
+  }
+]

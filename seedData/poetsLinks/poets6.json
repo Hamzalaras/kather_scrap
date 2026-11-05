@@ -1,0 +1,802 @@
+[
+  {
+    "poetId": 858,
+    "link": "https://www.aldiwan.net/cat-poet-Kaab-ibn-al-Ashraf"
+  },
+  {
+    "poetId": 859,
+    "link": "https://www.aldiwan.net/cat-poet-Umayyah-ibn-al-Askar"
+  },
+  {
+    "poetId": 860,
+    "link": "https://www.aldiwan.net/cat-poet-Urwah-Al-Rahhal"
+  },
+  {
+    "poetId": 861,
+    "link": "https://www.aldiwan.net/cat-poet-Abu-Yala-Al-Aynzurbi"
+  },
+  {
+    "poetId": 862,
+    "link": "https://www.aldiwan.net/cat-poet-Ibn-Kashajim"
+  },
+  {
+    "poetId": 863,
+    "link": "https://www.aldiwan.net/cat-poet-Al-Mumti-Al-Maarri"
+  },
+  {
+    "poetId": 864,
+    "link": "https://www.aldiwan.net/cat-poet-Ali-Al-Shami"
+  },
+  {
+    "poetId": 865,
+    "link": "https://www.aldiwan.net/cat-poet-Abu-Mushrif-al-Dajrjawi"
+  },
+  {
+    "poetId": 866,
+    "link": "https://www.aldiwan.net/cat-poet-Alaa-al-Din-al-Baji"
+  },
+  {
+    "poetId": 867,
+    "link": "https://www.aldiwan.net/cat-poet-Abu-Ali-al-Muhandis"
+  },
+  {
+    "poetId": 868,
+    "link": "https://www.aldiwan.net/cat-poet-Ibn-Qursa-al-Ansari"
+  },
+  {
+    "poetId": 869,
+    "link": "https://www.aldiwan.net/cat-poet-Qiwam-al-Din-al-Aqtani"
+  },
+  {
+    "poetId": 870,
+    "link": "https://www.aldiwan.net/cat-poet-Mustafa-Abdelrazek"
+  },
+  {
+    "poetId": 871,
+    "link": "https://www.aldiwan.net/cat-poet-Ali-al-Laythi"
+  },
+  {
+    "poetId": 872,
+    "link": "https://www.aldiwan.net/cat-poet-Mohammad-al-Tantatai"
+  },
+  {
+    "poetId": 873,
+    "link": "https://www.aldiwan.net/cat-poet-Zakariyya-al-Ansari"
+  },
+  {
+    "poetId": 874,
+    "link": "https://www.aldiwan.net/cat-poet-Mohamed-Farghaly-ElTahawy"
+  },
+  {
+    "poetId": 875,
+    "link": "https://www.aldiwan.net/cat-poet-kareem-al-Iraqi"
+  },
+  {
+    "poetId": 876,
+    "link": "https://www.aldiwan.net/cat-poet-Fakhri-Al-Baroudi"
+  },
+  {
+    "poetId": 877,
+    "link": "https://www.aldiwan.net/cat-poet-Ali-AbdelRazeq"
+  },
+  {
+    "poetId": 878,
+    "link": "https://www.aldiwan.net/cat-poet-Al-Qadhi-Al-Othmani"
+  },
+  {
+    "poetId": 879,
+    "link": "https://www.aldiwan.net/cat-poet-Abu-Al-Bassam-Al-Thumali"
+  },
+  {
+    "poetId": 880,
+    "link": "https://www.aldiwan.net/cat-poet-Muhsin-Al-Jawahiri"
+  },
+  {
+    "poetId": 881,
+    "link": "https://www.aldiwan.net/cat-poet-Abu-Muhsin-Al-Bakri"
+  },
+  {
+    "poetId": 882,
+    "link": "https://www.aldiwan.net/cat-poet-Abu-Ishaq-Al-Najirmi"
+  },
+  {
+    "poetId": 883,
+    "link": "https://www.aldiwan.net/cat-poet-Ibn-Jumanah-Al-Muharibi"
+  },
+  {
+    "poetId": 884,
+    "link": "https://www.aldiwan.net/cat-poet-Jabala-bin-Al-Ayham"
+  },
+  {
+    "poetId": 885,
+    "link": "https://www.aldiwan.net/cat-poet-Shibl-al-Fazari"
+  },
+  {
+    "poetId": 886,
+    "link": "https://www.aldiwan.net/cat-poet-Shurayh-al-Thalabi"
+  },
+  {
+    "poetId": 887,
+    "link": "https://www.aldiwan.net/cat-poet-Shiqsa-al-Fazari"
+  },
+  {
+    "poetId": 888,
+    "link": "https://www.aldiwan.net/cat-poet-Amir-al-Fazari"
+  },
+  {
+    "poetId": 889,
+    "link": "https://www.aldiwan.net/cat-poet-Abd-Hind-al-Thalabi"
+  },
+  {
+    "poetId": 890,
+    "link": "https://www.aldiwan.net/cat-poet-Ubayd-ibn-Nashba-al-Murri"
+  },
+  {
+    "poetId": 891,
+    "link": "https://www.aldiwan.net/cat-poet-Amr-al-Fazari"
+  },
+  {
+    "poetId": 892,
+    "link": "https://www.aldiwan.net/cat-poet-Iyad-al-Fazari"
+  },
+  {
+    "poetId": 893,
+    "link": "https://www.aldiwan.net/cat-poet-Ghurab-al-Fazari"
+  },
+  {
+    "poetId": 894,
+    "link": "https://www.aldiwan.net/cat-poet-Fukayha-al-Fazari"
+  },
+  {
+    "poetId": 895,
+    "link": "https://www.aldiwan.net/cat-poet-Qatada-al-Thalabi"
+  },
+  {
+    "poetId": 896,
+    "link": "https://www.aldiwan.net/cat-poet-Qutb-al-Fazari"
+  },
+  {
+    "poetId": 897,
+    "link": "https://www.aldiwan.net/cat-poet-Qais-ibn-Anbas-al-Fazari"
+  },
+  {
+    "poetId": 898,
+    "link": "https://www.aldiwan.net/cat-poet-Laqit-ibn-Shayban"
+  },
+  {
+    "poetId": 899,
+    "link": "https://www.aldiwan.net/cat-poet-Malik-ibn-Himar-al-Fazari"
+  },
+  {
+    "poetId": 900,
+    "link": "https://www.aldiwan.net/cat-poet-Masoud-ibn-Faid-al-Fazari."
+  },
+  {
+    "poetId": 901,
+    "link": "https://www.aldiwan.net/cat-poet-Muawiyah-ibn-%E1%B8%A4aw%E1%B9%AD-al-Fazari"
+  },
+  {
+    "poetId": 902,
+    "link": "https://www.aldiwan.net/cat-poet-Maaqil-ibn-Awf-al-Thaalabi"
+  },
+  {
+    "poetId": 903,
+    "link": "https://www.aldiwan.net/cat-poet-Mula%E1%B9%ADim%20ibn-Awf-al-Fazari"
+  },
+  {
+    "poetId": 904,
+    "link": "https://www.aldiwan.net/cat-poet-Najbah-ibn-Rabiah-al-Fazari"
+  },
+  {
+    "poetId": 905,
+    "link": "https://www.aldiwan.net/cat-poet-Jial-ibn-Abdalnahmi"
+  },
+  {
+    "poetId": 906,
+    "link": "https://www.aldiwan.net/cat-poet-Duwaylah-al-Shabami"
+  },
+  {
+    "poetId": 907,
+    "link": "https://www.aldiwan.net/cat-poet-Saad-ibn-Malik-al-Bakri"
+  },
+  {
+    "poetId": 908,
+    "link": "https://www.aldiwan.net/cat-poet-Umaira-bin-Jaal-al-Taghlibi"
+  },
+  {
+    "poetId": 909,
+    "link": "https://www.aldiwan.net/cat-poet-Zaid-bin-Amr-bin-Nufail"
+  },
+  {
+    "poetId": 910,
+    "link": "https://www.aldiwan.net/cat-poet-Hanthala-al-Tayyi"
+  },
+  {
+    "poetId": 911,
+    "link": "https://www.aldiwan.net/cat-poet-Qarad-bin-Hanash-al-Sardi"
+  },
+  {
+    "poetId": 912,
+    "link": "https://www.aldiwan.net/cat-poet-Jabir-ibn-Ralan-al-Sanbasi"
+  },
+  {
+    "poetId": 913,
+    "link": "https://www.aldiwan.net/cat-poet-Mohamed-Omar-Al-Banna"
+  },
+  {
+    "poetId": 914,
+    "link": "https://www.aldiwan.net/cat-poet-Abdalkalik-Kitan"
+  },
+  {
+    "poetId": 915,
+    "link": "https://www.aldiwan.net/cat-poet-Ibn-Isam-al-Tilmisani"
+  },
+  {
+    "poetId": 916,
+    "link": "https://www.aldiwan.net/cat-poet-Abdalkarim-al-Fakun"
+  },
+  {
+    "poetId": 917,
+    "link": "https://www.aldiwan.net/cat-poet-Muhammad-ibn-al-Shahid"
+  },
+  {
+    "poetId": 918,
+    "link": "https://www.aldiwan.net/cat-poet-Shaykhna-al-Yaqubi"
+  },
+  {
+    "poetId": 919,
+    "link": "https://www.aldiwan.net/cat-poet-Boufmayn-al-Majlisi"
+  },
+  {
+    "poetId": 920,
+    "link": "https://www.aldiwan.net/cat-poet-Al-Dheeb-al-Kabir"
+  },
+  {
+    "poetId": 921,
+    "link": "https://www.aldiwan.net/cat-poet-Malik-al-Mazmum"
+  },
+  {
+    "poetId": 922,
+    "link": "https://www.aldiwan.net/cat-poet-Qatil-Maklaba"
+  },
+  {
+    "poetId": 923,
+    "link": "https://www.aldiwan.net/cat-poet-Al-Mumazziq-ibn-al-Mudarrib"
+  },
+  {
+    "poetId": 924,
+    "link": "https://www.aldiwan.net/cat-poet-Said-ibn-Humayd"
+  },
+  {
+    "poetId": 925,
+    "link": "https://www.aldiwan.net/cat-poet-Zuhayr-ibn-Janab-al-Kalbi"
+  },
+  {
+    "poetId": 926,
+    "link": "https://www.aldiwan.net/cat-poet-Mirdas-ibn-Abi-Amir-al-Sulami"
+  },
+  {
+    "poetId": 927,
+    "link": "https://www.aldiwan.net/cat-poet-Amr-ibn-Shaas"
+  },
+  {
+    "poetId": 928,
+    "link": "https://www.aldiwan.net/cat-poet-Mohammed-Abduh-Ghanem"
+  },
+  {
+    "poetId": 929,
+    "link": "https://www.aldiwan.net/cat-poet-amr-al-tahawi"
+  },
+  {
+    "poetId": 930,
+    "link": "https://www.aldiwan.net/cat-poet-Malik-Al%E2%80%91Asamm"
+  },
+  {
+    "poetId": 931,
+    "link": "https://www.aldiwan.net/cat-poet-Al-Zubayr-ibn-AbdalMuttalib"
+  },
+  {
+    "poetId": 932,
+    "link": "https://www.aldiwan.net/cat-poet-ibn-Azzouz"
+  },
+  {
+    "poetId": 933,
+    "link": "https://www.aldiwan.net/cat-poet-Ibn-Bassam-al-Baghdadi"
+  },
+  {
+    "poetId": 934,
+    "link": "https://www.aldiwan.net/cat-poet-Ibn-Abi-Karima"
+  },
+  {
+    "poetId": 935,
+    "link": "https://www.aldiwan.net/cat-poet-Ahmad-Taqi%20al-Din"
+  },
+  {
+    "poetId": 936,
+    "link": "https://www.aldiwan.net/cat-poet-Awf-ibn-al-Ahwas"
+  },
+  {
+    "poetId": 937,
+    "link": "https://www.aldiwan.net/cat-poet-Abdulrahim-Omar"
+  },
+  {
+    "poetId": 938,
+    "link": "https://www.aldiwan.net/cat-poet-Jean-Amrouche"
+  },
+  {
+    "poetId": 939,
+    "link": "https://www.aldiwan.net/cat-poet-Rajab-Bouhuwaish"
+  },
+  {
+    "poetId": 940,
+    "link": "https://www.aldiwan.net/cat-poet-Ahmed-Rafiq-al-Mahdawi"
+  },
+  {
+    "poetId": 941,
+    "link": "https://www.aldiwan.net/cat-poet-Mohamed-Ibrahim-Warsame"
+  },
+  {
+    "poetId": 942,
+    "link": "https://www.aldiwan.net/cat-poet-Ayman-Al-Atoum"
+  },
+  {
+    "poetId": 943,
+    "link": "https://www.aldiwan.net/cat-poet-Mutaher-al-Eryani"
+  },
+  {
+    "poetId": 944,
+    "link": "https://www.aldiwan.net/cat-poet-Sabri-Al-Hayqi"
+  },
+  {
+    "poetId": 945,
+    "link": "https://www.aldiwan.net/cat-poet-Kulaib-ibn-Rabiah"
+  },
+  {
+    "poetId": 946,
+    "link": "https://www.aldiwan.net/cat-poet-George-Ghanem"
+  },
+  {
+    "poetId": 947,
+    "link": "https://www.aldiwan.net/cat-poet-Zakaria-Mohammed"
+  },
+  {
+    "poetId": 948,
+    "link": "https://www.aldiwan.net/cat-poet-Sami-Mahdi"
+  },
+  {
+    "poetId": 949,
+    "link": "https://www.aldiwan.net/cat-poet-Ali-al-Jundi"
+  },
+  {
+    "poetId": 950,
+    "link": "https://www.aldiwan.net/cat-poet-Ahmed-Barakat"
+  },
+  {
+    "poetId": 951,
+    "link": "https://www.aldiwan.net/cat-poet-Muayyad-Al-Rawi"
+  },
+  {
+    "poetId": 952,
+    "link": "https://www.aldiwan.net/cat-poet-George-Saydah"
+  },
+  {
+    "poetId": 953,
+    "link": "https://www.aldiwan.net/cat-poet-Sahim-Al-Riyahi"
+  },
+  {
+    "poetId": 954,
+    "link": "https://www.aldiwan.net/cat-poet-Karim-Houmari"
+  },
+  {
+    "poetId": 955,
+    "link": "https://www.aldiwan.net/cat-poet-Akram-Al-Ameer"
+  },
+  {
+    "poetId": 956,
+    "link": "https://www.aldiwan.net/cat-poet-Ehab-Khalifa"
+  },
+  {
+    "poetId": 957,
+    "link": "https://www.aldiwan.net/cat-poet-Fouad-Rifka"
+  },
+  {
+    "poetId": 958,
+    "link": "https://www.aldiwan.net/cat-poet-Suleiman-Awwad"
+  },
+  {
+    "poetId": 959,
+    "link": "https://www.aldiwan.net/cat-poet-Fawzi-Karim"
+  },
+  {
+    "poetId": 960,
+    "link": "https://www.aldiwan.net/cat-poet-Ahmad-Dahbour"
+  },
+  {
+    "poetId": 961,
+    "link": "https://www.aldiwan.net/cat-poet-Monir-Boulahich"
+  },
+  {
+    "poetId": 962,
+    "link": "https://www.aldiwan.net/cat-poet-Muhammad-Saleh"
+  },
+  {
+    "poetId": 963,
+    "link": "https://www.aldiwan.net/cat-poet-Abdulrahman-Asiri"
+  },
+  {
+    "poetId": 964,
+    "link": "https://www.aldiwan.net/cat-poet-Yusuf-Ghosoub"
+  },
+  {
+    "poetId": 965,
+    "link": "https://www.aldiwan.net/cat-poet-Fouad-Al-Khishen"
+  },
+  {
+    "poetId": 966,
+    "link": "https://www.aldiwan.net/cat-poet-Shaker-Mutlaq"
+  },
+  {
+    "poetId": 967,
+    "link": "https://www.aldiwan.net/cat-poet-Shawqi-Baghdadi"
+  },
+  {
+    "poetId": 968,
+    "link": "https://www.aldiwan.net/cat-poet-Mahmoud-Qarni"
+  },
+  {
+    "poetId": 969,
+    "link": "https://www.aldiwan.net/cat-poet-Nazeer-Al-Azmeh"
+  },
+  {
+    "poetId": 970,
+    "link": "https://www.aldiwan.net/cat-poet-Chafic-Maluf"
+  },
+  {
+    "poetId": 971,
+    "link": "https://www.aldiwan.net/cat-poet-Ahmed-Rashid-Thani"
+  },
+  {
+    "poetId": 972,
+    "link": "https://www.aldiwan.net/cat-poet-Jabra-Ibrahim-Jabra"
+  },
+  {
+    "poetId": 973,
+    "link": "https://www.aldiwan.net/cat-poet-Mohammad-Ali-Shamseddine"
+  },
+  {
+    "poetId": 974,
+    "link": "https://www.aldiwan.net/cat-poet-Mohammad-Omran"
+  },
+  {
+    "poetId": 975,
+    "link": "https://www.aldiwan.net/cat-poet-Salah-Ahmed-Ibrahim"
+  },
+  {
+    "poetId": 976,
+    "link": "https://www.aldiwan.net/cat-poet-Mahmoud-Al-Breikan"
+  },
+  {
+    "poetId": 977,
+    "link": "https://www.aldiwan.net/cat-poet-Ahmad-Sulaiman-Al-Ahmad"
+  },
+  {
+    "poetId": 978,
+    "link": "https://www.aldiwan.net/cat-poet-Musa-Al-Naqdi"
+  },
+  {
+    "poetId": 979,
+    "link": "https://www.aldiwan.net/cat-poet-Shadhil-Taqa"
+  },
+  {
+    "poetId": 980,
+    "link": "https://www.aldiwan.net/cat-poet-Abdullah-Al%E2%80%91Shurbaji"
+  },
+  {
+    "poetId": 981,
+    "link": "https://www.aldiwan.net/cat-poet-Albert-Adeeb"
+  },
+  {
+    "poetId": 982,
+    "link": "https://www.aldiwan.net/cat-poet-Ahmed-Al-Majdi"
+  },
+  {
+    "poetId": 983,
+    "link": "https://www.aldiwan.net/cat-poet-Al-Wassaf"
+  },
+  {
+    "poetId": 984,
+    "link": "https://www.aldiwan.net/cat-poet-Abdulhamid-Al-Rifai"
+  },
+  {
+    "poetId": 985,
+    "link": "https://www.aldiwan.net/cat-poet-Omar-Taqi-al-Din-Al-Rifai"
+  },
+  {
+    "poetId": 986,
+    "link": "https://www.aldiwan.net/cat-poet-Abdulaziz-bin-Hamad-Al-Sheikh-Mubarak"
+  },
+  {
+    "poetId": 987,
+    "link": "https://www.aldiwan.net/cat-poet-Abdulaziz-Al-Sheikh-Mubarak"
+  },
+  {
+    "poetId": 988,
+    "link": "https://www.aldiwan.net/cat-poet-Abu-Bakr-ibn-Ammar"
+  },
+  {
+    "poetId": 989,
+    "link": "https://www.aldiwan.net/cat-poet-Mohamed-Abdelmuttalib"
+  },
+  {
+    "poetId": 990,
+    "link": "https://www.aldiwan.net/cat-poet-Mohammed-Bouseif"
+  },
+  {
+    "poetId": 991,
+    "link": "https://www.aldiwan.net/cat-poet-Mostafa-Nagib"
+  },
+  {
+    "poetId": 992,
+    "link": "https://www.aldiwan.net/cat-poet-Mahdi-Al-Hajjar"
+  },
+  {
+    "poetId": 993,
+    "link": "https://www.aldiwan.net/cat-poet-Mikhail-Al-Sabbagh"
+  },
+  {
+    "poetId": 994,
+    "link": "https://www.aldiwan.net/cat-poet-Ibrahim-Al-Sawani"
+  },
+  {
+    "poetId": 995,
+    "link": "https://www.aldiwan.net/cat-poet-Maruf-al%E2%80%91Nudhi"
+  },
+  {
+    "poetId": 996,
+    "link": "https://www.aldiwan.net/cat-poet-Najeeb-al-Haddad"
+  },
+  {
+    "poetId": 997,
+    "link": "https://www.aldiwan.net/cat-poet-Ibrahim-Al-Azm"
+  },
+  {
+    "poetId": 998,
+    "link": "https://www.aldiwan.net/cat-poet-Al-Qahtani-Al-Andalusi"
+  },
+  {
+    "poetId": 999,
+    "link": "https://www.aldiwan.net/cat-poet-Gawi_bin_Zalim"
+  },
+  {
+    "poetId": 1000,
+    "link": "https://www.aldiwan.net/cat-poet-Hanna_Al-Asaad"
+  },
+  {
+    "poetId": 1001,
+    "link": "https://www.aldiwan.net/cat-poet-Mohammad_Othman_Jalal"
+  },
+  {
+    "poetId": 1002,
+    "link": "https://www.aldiwan.net/cat-poet-Fakhri-Abu-al-Saud"
+  },
+  {
+    "poetId": 1003,
+    "link": "https://www.aldiwan.net/cat-poet-Shibli_Shumayyil"
+  },
+  {
+    "poetId": 1004,
+    "link": "https://www.aldiwan.net/cat-poet-Al-Kasti"
+  },
+  {
+    "poetId": 1005,
+    "link": "https://www.aldiwan.net/cat-poet-Qasim_al-Jassani"
+  },
+  {
+    "poetId": 1006,
+    "link": "https://www.aldiwan.net/cat-poet-Fouad_Blaibel"
+  },
+  {
+    "poetId": 1007,
+    "link": "https://www.aldiwan.net/cat-poet-Amin_Khairallah"
+  },
+  {
+    "poetId": 1008,
+    "link": "https://www.aldiwan.net/cat-poet-Ismail_Al-Khashab"
+  },
+  {
+    "poetId": 1009,
+    "link": "https://www.aldiwan.net/cat-poet-Ahmad_Al-Fakhri"
+  },
+  {
+    "poetId": 1010,
+    "link": "https://www.aldiwan.net/cat-poet-Arsenius_Al-Fakhouri"
+  },
+  {
+    "poetId": 1011,
+    "link": "https://www.aldiwan.net/cat-poet-Nasib_Arslan"
+  },
+  {
+    "poetId": 1012,
+    "link": "https://www.aldiwan.net/cat-poet-Abdul%20Mohsen_Al-Huwaizi"
+  },
+  {
+    "poetId": 1013,
+    "link": "https://www.aldiwan.net/cat-poet-Abu_Al-Khair_Al-Jundi"
+  },
+  {
+    "poetId": 1014,
+    "link": "https://www.aldiwan.net/cat-poet-Mohammad_Ajinah_al-Najafi"
+  },
+  {
+    "poetId": 1015,
+    "link": "https://www.aldiwan.net/cat-poet-Jafar_al-Naqdi"
+  },
+  {
+    "poetId": 1016,
+    "link": "https://www.aldiwan.net/cat-poet-Ali_Al-Ibritai"
+  },
+  {
+    "poetId": 1017,
+    "link": "https://www.aldiwan.net/cat-poet-Abu_Al%20Ebar_Al-Hashemi"
+  },
+  {
+    "poetId": 1018,
+    "link": "https://www.aldiwan.net/cat-poet-Hassan_Abu_Aleh"
+  },
+  {
+    "poetId": 1019,
+    "link": "https://www.aldiwan.net/cat-poet-Yaqub-al-Tabrizi"
+  },
+  {
+    "poetId": 1020,
+    "link": "https://www.aldiwan.net/cat-poet-Abdullah-Al-Duhaian"
+  },
+  {
+    "poetId": 1021,
+    "link": "https://www.aldiwan.net/cat-poet-Abdullah-Al-Khudhri"
+  },
+  {
+    "poetId": 1022,
+    "link": "https://www.aldiwan.net/cat-poet-Abdullah-bin-Othman"
+  },
+  {
+    "poetId": 1023,
+    "link": "https://www.aldiwan.net/cat-poet-Ahmad-Qaftan"
+  },
+  {
+    "poetId": 1024,
+    "link": "https://www.aldiwan.net/cat-poet-Ahmad-Azza-Al-Azmi"
+  },
+  {
+    "poetId": 1025,
+    "link": "https://www.aldiwan.net/cat-poet-Ahmad-al-Meshari"
+  },
+  {
+    "poetId": 1026,
+    "link": "https://www.aldiwan.net/cat-poet-Ahmed-bin-Musharraf"
+  },
+  {
+    "poetId": 1027,
+    "link": "https://www.aldiwan.net/cat-poet-Al-Baraa-bin-Bakki-Al-Fadhli"
+  },
+  {
+    "poetId": 1028,
+    "link": "https://www.aldiwan.net/cat-poet-Ibn-Manat-Al-Jangi"
+  },
+  {
+    "poetId": 1029,
+    "link": "https://www.aldiwan.net/cat-poet-Al-Ahwal%20Al-Hasani"
+  },
+  {
+    "poetId": 1030,
+    "link": "https://www.aldiwan.net/cat-poet-Abdulkarym-al-showaiter"
+  },
+  {
+    "poetId": 1031,
+    "link": "https://www.aldiwan.net/cat-poet-Mahdi-Al-Araji"
+  },
+  {
+    "poetId": 1032,
+    "link": "https://www.aldiwan.net/cat-poet-Mahdi-Ahmed-Khalil"
+  },
+  {
+    "poetId": 1033,
+    "link": "https://www.aldiwan.net/cat-poet-Abu-Al-Sufi"
+  },
+  {
+    "poetId": 1034,
+    "link": "https://www.aldiwan.net/cat-poet-Ibn-Kammuna"
+  },
+  {
+    "poetId": 1035,
+    "link": "https://www.aldiwan.net/cat-poet-Ahmad-Al-Zein"
+  },
+  {
+    "poetId": 1036,
+    "link": "https://www.aldiwan.net/cat-poet-Mohammed-Youra"
+  },
+  {
+    "poetId": 1037,
+    "link": "https://www.aldiwan.net/cat-poet-Mohammad-al-Buzidi"
+  },
+  {
+    "poetId": 1038,
+    "link": "https://www.aldiwan.net/cat-poet-Taha-al-Rawi"
+  },
+  {
+    "poetId": 1039,
+    "link": "https://www.aldiwan.net/cat-poet-Akash-Al-Dhamdi"
+  },
+  {
+    "poetId": 1040,
+    "link": "https://www.aldiwan.net/cat-poet-Mohammad-Ibn-nasar"
+  },
+  {
+    "poetId": 1041,
+    "link": "https://www.aldiwan.net/cat-poet-%20Mohammad-Fal-Al-Aqil"
+  },
+  {
+    "poetId": 1042,
+    "link": "https://www.aldiwan.net/cat-poet-Mohammad-Madour"
+  },
+  {
+    "poetId": 1043,
+    "link": "https://www.aldiwan.net/cat-poet-Mohammad-Masum"
+  },
+  {
+    "poetId": 1044,
+    "link": "https://www.aldiwan.net/cat-poet-Morsi-Al-Tantawi"
+  },
+  {
+    "poetId": 1045,
+    "link": "https://www.aldiwan.net/cat-poet-Noman-Thabit"
+  },
+  {
+    "poetId": 1046,
+    "link": "https://www.aldiwan.net/cat-poet-Mohammad-al-Akhdar-Saihi"
+  },
+  {
+    "poetId": 1047,
+    "link": "https://www.aldiwan.net/cat-poet-Suleiman-Al-Mushini"
+  },
+  {
+    "poetId": 1048,
+    "link": "https://www.aldiwan.net/cat-poet-Musa-Sharara"
+  },
+  {
+    "poetId": 1049,
+    "link": "https://www.aldiwan.net/cat-poet-Mohammed-ibn-Jafar"
+  },
+  {
+    "poetId": 1050,
+    "link": "https://www.aldiwan.net/cat-poet-Mohsen-Sharara"
+  },
+  {
+    "poetId": 1051,
+    "link": "https://www.aldiwan.net/cat-poet-Jafar-al-Sharqi"
+  },
+  {
+    "poetId": 1052,
+    "link": "https://www.aldiwan.net/cat-poet-Abdulhussein-Shukr"
+  },
+  {
+    "poetId": 1053,
+    "link": "https://www.aldiwan.net/cat-poet-Adib-Altaaqy"
+  },
+  {
+    "poetId": 1054,
+    "link": "https://www.aldiwan.net/cat-poet-Mohammad%20Al-Aribi"
+  },
+  {
+    "poetId": 1055,
+    "link": "https://www.aldiwan.net/cat-poet-Ibn-Ruzaiq"
+  },
+  {
+    "poetId": 1056,
+    "link": "https://www.aldiwan.net/cat-poet-Ahmed%20Al-Sitry"
+  },
+  {
+    "poetId": 1057,
+    "link": "https://www.aldiwan.net/cat-poet-Ahmed%20Al-Bakai"
+  }
+]

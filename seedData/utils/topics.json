@@ -1,0 +1,524 @@
+[
+  {
+    "id": 1,
+    "name_ar": "ابتهال",
+    "name_en": "supplication",
+    "aliases": [
+      "ابتهال",
+      "إبتهال",
+      "دعاء",
+      "التماس",
+      "إلتماس",
+      "prayer",
+      "invocation",
+      "plea",
+      "entreaty",
+      "dua"
+    ]
+  },
+  {
+    "id": 2,
+    "name_ar": "اعتذار",
+    "name_en": "apology",
+    "aliases": [
+      "اعتذار",
+      "إعتذار",
+      "استعطاف",
+      "إستعطاف",
+      "ندم",
+      "طلب المسامحة",
+      "excuse",
+      "regret",
+      "contrition",
+      "forgiveness",
+      "penitence"
+    ]
+  },
+  {
+    "id": 3,
+    "name_ar": "الأناشيد",
+    "name_en": "anthems",
+    "aliases": [
+      "الاناشيد",
+      "الإناشيد",
+      "نشيد",
+      "إنشاد",
+      "أغنية",
+      "ترتيلة",
+      "hymns",
+      "chants",
+      "songs",
+      "marching songs",
+      "ballads"
+    ]
+  },
+  {
+    "id": 4,
+    "name_ar": "المعلقات",
+    "name_en": "mu'allaqat",
+    "aliases": [
+      "المعلقات",
+      "المعلّقات",
+      "معلقة",
+      "معلّقة",
+      "معلقة",
+      "hanging poems",
+      "pre-Islamic poetry",
+      "classical Arabic poems",
+      "Jahiliyyah poetry"
+    ]
+  },
+  {
+    "id": 5,
+    "name_ar": "جود وكرم",
+    "name_en": "generosity",
+    "aliases": [
+      "جود",
+      "كرم",
+      "سخاء",
+      "ندى",
+      "أندى",
+      "أكرم",
+      "charity",
+      "magnanimity",
+      "benevolence",
+      "munificence",
+      "liberality"
+    ]
+  },
+  {
+    "id": 6,
+    "name_ar": "حزينه",
+    "name_en": "sadness",
+    "aliases": [
+      "حزين",
+      "حزينة",
+      "كآبة",
+      "أسف",
+      "كدر",
+      "أسى",
+      "حزن",
+      "melancholy",
+      "sorrow",
+      "grief",
+      "depression",
+      "lament",
+      "mourning"
+    ]
+  },
+  {
+    "id": 7,
+    "name_ar": "حكمة",
+    "name_en": "wisdom",
+    "aliases": [
+      "حكمة",
+      "فلسفة",
+      "حكيم",
+      "معرفة",
+      "إفادة",
+      "أحكام",
+      "philosophy",
+      "prudence",
+      "insight",
+      "knowledge",
+      "aphorism"
+    ]
+  },
+  {
+    "id": 8,
+    "name_ar": "دينية",
+    "name_en": "religious",
+    "aliases": [
+      "دينية",
+      "روحاني",
+      "إسلامي",
+      "إيماني",
+      "تعبدي",
+      "أيماني",
+      "spiritual",
+      "sacred",
+      "devotional",
+      "Islamic",
+      "theological"
+    ]
+  },
+  {
+    "id": 9,
+    "name_ar": "ذم",
+    "name_en": "condemnation",
+    "aliases": [
+      "ذم",
+      "نقد",
+      "إنتقاد",
+      "انتقاد",
+      "استنكار",
+      "إستنكار",
+      "blame",
+      "criticism",
+      "denunciation",
+      "disparagement",
+      "censure"
+    ]
+  },
+  {
+    "id": 10,
+    "name_ar": "رثاء",
+    "name_en": "elegy",
+    "aliases": [
+      "رثاء",
+      "نعي",
+      "نعى",
+      "مراثي",
+      "حداء",
+      "رثية",
+      "lament",
+      "funeral poem",
+      "mourning",
+      "dirge",
+      "lamentation"
+    ]
+  },
+  {
+    "id": 11,
+    "name_ar": "رحمة",
+    "name_en": "mercy",
+    "aliases": [
+      "رحمة",
+      "عطف",
+      "شفقة",
+      "رقة",
+      "أرحام",
+      "عاطفة",
+      "compassion",
+      "kindness",
+      "sympathy",
+      "clemency",
+      "compassionate"
+    ]
+  },
+  {
+    "id": 12,
+    "name_ar": "رومنسيه",
+    "name_en": "romance",
+    "aliases": [
+      "رومانسية",
+      "رومنسي",
+      "رومنسية",
+      "حب",
+      "عاطفة",
+      "محبة",
+      "إعجاب",
+      "love",
+      "affection",
+      "courtship",
+      "romantic love",
+      "tender"
+    ]
+  },
+  {
+    "id": 13,
+    "name_ar": "سياسية",
+    "name_en": "political",
+    "aliases": [
+      "سياسية",
+      "سياسي",
+      "إدارة",
+      "حكم",
+      "أحكام",
+      "شؤون الدولة",
+      "governance",
+      "state affairs",
+      "political commentary",
+      "civic",
+      "statecraft"
+    ]
+  },
+  {
+    "id": 14,
+    "name_ar": "شوق",
+    "name_en": "longing",
+    "aliases": [
+      "شوق",
+      "حنين",
+      "إشتياق",
+      "اشتياق",
+      "ضنى",
+      "أحنان",
+      "yearning",
+      "nostalgia",
+      "desire",
+      "homesickness",
+      "wistfulness"
+    ]
+  },
+  {
+    "id": 15,
+    "name_ar": "صبر",
+    "name_en": "patience",
+    "aliases": [
+      "صبر",
+      "تحمل",
+      "إحتمال",
+      "احتمال",
+      "جلد",
+      "أناة",
+      "endurance",
+      "forbearance",
+      "perseverance",
+      "resignation",
+      "fortitude"
+    ]
+  },
+  {
+    "id": 16,
+    "name_ar": "عامه",
+    "name_en": "general",
+    "aliases": [
+      "عام",
+      "عامة",
+      "متنوع",
+      "مختلف",
+      "إختلاف",
+      "متعدد",
+      "miscellaneous",
+      "various",
+      "diverse",
+      "mixed",
+      "general purpose"
+    ]
+  },
+  {
+    "id": 17,
+    "name_ar": "عتاب",
+    "name_en": "reproach",
+    "aliases": [
+      "عتاب",
+      "لوم",
+      "ملامة",
+      "توبيخ",
+      "أنب",
+      "إنب",
+      "blame",
+      "censure",
+      "remonstrance",
+      "complaint",
+      "rebuke"
+    ]
+  },
+  {
+    "id": 18,
+    "name_ar": "عدل",
+    "name_en": "justice",
+    "aliases": [
+      "عدل",
+      "عادل",
+      "إنصاف",
+      "انصاف",
+      "حق",
+      "إستقامة",
+      "استقامة",
+      "fairness",
+      "equity",
+      "righteousness",
+      "law",
+      "impartiality"
+    ]
+  },
+  {
+    "id": 19,
+    "name_ar": "غزل",
+    "name_en": "ghazal",
+    "aliases": [
+      "غزل",
+      "غزلي",
+      "غزلية",
+      "هيام",
+      "نسيب",
+      "أنس",
+      "erotic poetry",
+      "love poetry",
+      "sensual poetry",
+      "amorous",
+      "flirtation"
+    ]
+  },
+  {
+    "id": 20,
+    "name_ar": "فراق",
+    "name_en": "parting",
+    "aliases": [
+      "فراق",
+      "إفتراق",
+      "افتراق",
+      "وداع",
+      "فراقية",
+      "توديع",
+      "separation",
+      "departure",
+      "farewell",
+      "goodbye",
+      "separation poetry"
+    ]
+  },
+  {
+    "id": 21,
+    "name_ar": "قصيره",
+    "name_en": "short",
+    "aliases": [
+      "قصيرة",
+      "مختصر",
+      "قليل الأبيات",
+      "موجز",
+      "أبيات",
+      "brief",
+      "concise",
+      "short form",
+      "condensed",
+      "abbreviated"
+    ]
+  },
+  {
+    "id": 22,
+    "name_ar": "مدح",
+    "name_en": "praise",
+    "aliases": [
+      "مدح",
+      "مديح",
+      "استحسان",
+      "إستحسان",
+      "تمجيد",
+      "أمداح",
+      "laudation",
+      "commendation",
+      "glorification",
+      "encomium",
+      "tribute"
+    ]
+  },
+  {
+    "id": 23,
+    "name_ar": "نصيحة",
+    "name_en": "advice",
+    "aliases": [
+      "نصيحة",
+      "موعظة",
+      "إرشاد",
+      "ارشاد",
+      "تعليم",
+      "إفادة",
+      "counsel",
+      "guidance",
+      "recommendation",
+      "exhortation",
+      "moral lesson"
+    ]
+  },
+  {
+    "id": 24,
+    "name_ar": "هجاء",
+    "name_en": "satire",
+    "aliases": [
+      "هجاء",
+      "هجائي",
+      "هجائية",
+      "سخرية",
+      "استهزاء",
+      "إستهزاء",
+      "mockery",
+      "ridicule",
+      "lampoon",
+      "sarcasm",
+      "invective"
+    ]
+  },
+  {
+    "id": 25,
+    "name_ar": "وطنيه",
+    "name_en": "patriotic",
+    "aliases": [
+      "وطني",
+      "وطنية",
+      "قومي",
+      "قومية",
+      "أوطان",
+      "حب الوطن",
+      "nationalist",
+      "patriotism",
+      "homeland",
+      "national pride",
+      "nationalism"
+    ]
+  },
+  {
+    "id": 26,
+    "name_ar": "فخر",
+    "name_en": "pride",
+    "aliases": [
+      "فخر",
+      "فخور",
+      "اعتزاز",
+      "إعتزاز",
+      "تفاخر",
+      "أفخار",
+      "boasting",
+      "self-glorification",
+      "arrogance",
+      "honor",
+      "nobility"
+    ]
+  },
+  {
+    "id": 27,
+    "name_ar": "وصف",
+    "name_en": "description",
+    "aliases": [
+      "وصف",
+      "وصفي",
+      "وصفية",
+      "تصوير",
+      "رسم",
+      "إبداع",
+      "portrayal",
+      "depiction",
+      "imagery",
+      "vivid description",
+      "descriptive"
+    ]
+  },
+  {
+    "id": 28,
+    "name_ar": "زهد",
+    "name_en": "asceticism",
+    "aliases": [
+      "زهد",
+      "زاهد",
+      "زاهدة",
+      "ورع",
+      "تقوى",
+      "أنسك",
+      "renunciation",
+      "piety",
+      "abstinence",
+      "monasticism",
+      "ascetic"
+    ]
+  },
+  {
+    "id": 29,
+    "name_ar": "حماسة",
+    "name_en": "enthusiasm",
+    "aliases": [
+      "حماسة",
+      "حماسي",
+      "حماسية",
+      "عزيمة",
+      "إقدام",
+      "أقدام",
+      "fervor",
+      "zeal",
+      "passion",
+      "excitement",
+      "ardor"
+    ]
+  }
+]

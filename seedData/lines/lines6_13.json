@@ -1,0 +1,835 @@
+[
+  {
+    "content": "فدع مديحي ومدح الناس كلهم",
+    "poem_id": 33281,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 1
+  },
+  {
+    "content": "والزم مديحاً له الرحمن أولاه",
+    "poem_id": 33281,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 2
+  },
+  {
+    "content": "فكل من رام مدحاً فيه منحصر",
+    "poem_id": 33281,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 3
+  },
+  {
+    "content": "لسانه عن يسير من مزاياه",
+    "poem_id": 33281,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 4
+  },
+  {
+    "content": "ولقد تسابقت السماء وأرضها",
+    "poem_id": 33282,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 1
+  },
+  {
+    "content": "في ضم شخصك مجمع التبيين",
+    "poem_id": 33282,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 2
+  },
+  {
+    "content": "ققسمت بينما فروحك في السما",
+    "poem_id": 33282,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 3
+  },
+  {
+    "content": "والجسم في الأرضين للتحصين",
+    "poem_id": 33282,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 4
+  },
+  {
+    "content": "يا من قضى الإسلام لما أن قضى",
+    "poem_id": 33283,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 1
+  },
+  {
+    "content": "لا كان يومك في قضايا كوني",
+    "poem_id": 33283,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 2
+  },
+  {
+    "content": "إن يمس شخصك في اللحود مغيباً",
+    "poem_id": 33283,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 3
+  },
+  {
+    "content": "فالعلم فينا منك غير دفين",
+    "poem_id": 33283,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 4
+  },
+  {
+    "content": "فاذهب جميل الذكر منشور اللوا",
+    "poem_id": 33283,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 5
+  },
+  {
+    "content": "وإليك في الجنات خير قرين",
+    "poem_id": 33283,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 6
+  },
+  {
+    "content": "وعليك تترى رحمة الباري متى",
+    "poem_id": 33283,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 7
+  },
+  {
+    "content": "ما رنحت ريح اللاصبا بغصون",
+    "poem_id": 33283,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 8
+  },
+  {
+    "content": "الحق نور عليه للهدى علم",
+    "poem_id": 33284,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 1
+  },
+  {
+    "content": "من أمه متنيراً قاده العلم",
+    "poem_id": 33284,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 2
+  },
+  {
+    "content": "يا حبذا عترة بدء الوجود بهم",
+    "poem_id": 33284,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 3
+  },
+  {
+    "content": "وهكذا بهم ينهى ويختتم",
+    "poem_id": 33284,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 4
+  },
+  {
+    "content": "من مثلهم ورسول اللَه فاتحهم",
+    "poem_id": 33284,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 5
+  },
+  {
+    "content": "وسيطة العقد والمهدي ختمهم",
+    "poem_id": 33284,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 6
+  },
+  {
+    "content": "وهل أمية لا لمت بمغفرةٍ",
+    "poem_id": 33284,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 7
+  },
+  {
+    "content": "ولا نحت سواحها من رحمة ديم",
+    "poem_id": 33284,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 8
+  },
+  {
+    "content": "تنوش هدب ذيول للهدى سدلت",
+    "poem_id": 33284,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 9
+  },
+  {
+    "content": "من الإله لها الأملاك تحترم",
+    "poem_id": 33284,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 10
+  },
+  {
+    "content": "ولا كمثل بني العباس لا رقبوا",
+    "poem_id": 33284,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 11
+  },
+  {
+    "content": "إلا ولا ذمة بل رحمهم جذموا",
+    "poem_id": 33284,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 12
+  },
+  {
+    "content": "جنوا بمثل الذي تجني أمية بل",
+    "poem_id": 33284,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 13
+  },
+  {
+    "content": "على طنابيرهم زادت لهم نغم",
+    "poem_id": 33284,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 14
+  },
+  {
+    "content": "للَّه سهم سددته يد القضا",
+    "poem_id": 33285,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 1
+  },
+  {
+    "content": "فأصاب كل الخلق حتى من مضى",
+    "poem_id": 33285,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 2
+  },
+  {
+    "content": "عقدت عليه المكرمات نطاقها",
+    "poem_id": 33285,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 3
+  },
+  {
+    "content": "فالآن حق لعقدها أن ينقضها",
+    "poem_id": 33285,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 4
+  },
+  {
+    "content": "تاللَه أن المرتضى قد شب في قلب",
+    "poem_id": 33285,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 5
+  },
+  {
+    "content": "الورى لما مضى نار الغضا",
+    "poem_id": 33285,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 6
+  },
+  {
+    "content": "وسقى ضريح المرتضى صوب الرضا",
+    "poem_id": 33285,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 7
+  },
+  {
+    "content": "ما نور مفخره على الدنيا أضا",
+    "poem_id": 33285,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 8
+  },
+  {
+    "content": "على التقى أسس هذا البنا",
+    "poem_id": 33286,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 1
+  },
+  {
+    "content": "فصار للناس به مأنس",
+    "poem_id": 33286,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 2
+  },
+  {
+    "content": "عمر بالذكر وفي طاعةٍ",
+    "poem_id": 33286,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 3
+  },
+  {
+    "content": "تطيب من رؤيته الأنفس",
+    "poem_id": 33286,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 4
+  },
+  {
+    "content": "نادى به تأريخ إكماله",
+    "poem_id": 33286,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 5
+  },
+  {
+    "content": "يا مسجداً بالذكر قد أسسوا",
+    "poem_id": 33286,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 6
+  },
+  {
+    "content": "فقم بلغ السيل الزبي وعلا الربى",
+    "poem_id": 33287,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 1
+  },
+  {
+    "content": "وصاد وقاد الأرنب الأسد الضاري",
+    "poem_id": 33287,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 2
+  },
+  {
+    "content": "قفوت بها إثر البهائي وجعفر",
+    "poem_id": 33287,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 3
+  },
+  {
+    "content": "وكل بمقدار اقتداري له جار",
+    "poem_id": 33287,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 4
+  },
+  {
+    "content": "سقى عارض الأنوا بوطفاء مدرار",
+    "poem_id": 33288,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 1
+  },
+  {
+    "content": "معاهد يهدي من شذا طيبها الساري",
+    "poem_id": 33288,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 2
+  },
+  {
+    "content": "ولا برحت أيدي اللوافح غضةً",
+    "poem_id": 33288,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 3
+  },
+  {
+    "content": "توشي بروداً من رباها بأزهار",
+    "poem_id": 33288,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 4
+  },
+  {
+    "content": "ذا مبتداً صدر بالنفي في الـ",
+    "poem_id": 33289,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 1
+  },
+  {
+    "content": "ـمعنى فألجاه لحذف الخبر",
+    "poem_id": 33289,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 2
+  },
+  {
+    "content": "وكان فيه فاعل قد غنى",
+    "poem_id": 33289,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 3
+  },
+  {
+    "content": "عنه كما جاء ببعض الصور",
+    "poem_id": 33289,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 4
+  },
+  {
+    "content": "تقول غير ضاربٍ عبدنا",
+    "poem_id": 33289,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 5
+  },
+  {
+    "content": "عبدكم أو غير معطي عمر",
+    "poem_id": 33289,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 6
+  },
+  {
+    "content": "يا من ببحر النحو يجني الدررا",
+    "poem_id": 33290,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 1
+  },
+  {
+    "content": "ما مبتداً ليس له من خبر",
+    "poem_id": 33290,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 2
+  },
+  {
+    "content": "وليس وصفاً لفظه نفي بلا",
+    "poem_id": 33290,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 3
+  },
+  {
+    "content": "ولا بالاستفهام شاب الخير",
+    "poem_id": 33290,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 4
+  },
+  {
+    "content": "يا فاعل الخير والإحسان مجتهداً",
+    "poem_id": 33291,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 1
+  },
+  {
+    "content": "أنفق ولا تخش من ذي العرش أقتارا",
+    "poem_id": 33291,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 2
+  },
+  {
+    "content": "فاللَه يجزيك أضعافاً مضاعفةً",
+    "poem_id": 33291,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 3
+  },
+  {
+    "content": "والرزق يأتيك آصالاً وأبكارا",
+    "poem_id": 33291,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 4
+  },
+  {
+    "content": "أيا علماء العصر هل من مخبر",
+    "poem_id": 33292,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 1
+  },
+  {
+    "content": "عن امرأة حلت لصاحبها عقدا",
+    "poem_id": 33292,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 2
+  },
+  {
+    "content": "فإن طلقت قبل الدخول ففرضها",
+    "poem_id": 33292,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 3
+  },
+  {
+    "content": "ثلاثة أقراء تعد لها عدا",
+    "poem_id": 33292,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 4
+  },
+  {
+    "content": "وإن طلقت بعد الدخول ففرضها",
+    "poem_id": 33292,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 5
+  },
+  {
+    "content": "بقرء من الأقراء تأتي به فردا",
+    "poem_id": 33292,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 6
+  },
+  {
+    "content": "يا سائلاً لم يجب",
+    "poem_id": 33293,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 1
+  },
+  {
+    "content": "عن لغز مستغرب",
+    "poem_id": 33293,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 2
+  },
+  {
+    "content": "ذاك مريض مطلقاً",
+    "poem_id": 33293,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 3
+  },
+  {
+    "content": "زوجته على تقى",
+    "poem_id": 33293,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 4
+  },
+  {
+    "content": "أو ضرر أو مطلقاً",
+    "poem_id": 33293,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 5
+  },
+  {
+    "content": "على خلاف حققا",
+    "poem_id": 33293,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 6
+  },
+  {
+    "content": "فمات في هذا المرض",
+    "poem_id": 33293,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 7
+  },
+  {
+    "content": "لا مرض به عرض",
+    "poem_id": 33293,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 8
+  },
+  {
+    "content": "بعد تمام العده",
+    "poem_id": 33293,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 9
+  },
+  {
+    "content": "ولم تزوج بعده",
+    "poem_id": 33293,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 10
+  },
+  {
+    "content": "وهي تمام الحول",
+    "poem_id": 33293,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 11
+  },
+  {
+    "content": "فاقنع بهذا القول",
+    "poem_id": 33293,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 12
+  },
+  {
+    "content": "يا فضلاء الأدب",
+    "poem_id": 33294,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 1
+  },
+  {
+    "content": "من عجم أو عرب",
+    "poem_id": 33294,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 2
+  },
+  {
+    "content": "ما قولكم في أجنبي",
+    "poem_id": 33294,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 3
+  },
+  {
+    "content": "مورث من أجنبي",
+    "poem_id": 33294,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 4
+  },
+  {
+    "content": "حال وجود أقرب",
+    "poem_id": 33294,
+    "poet_id": 1056,
+    "type": 1,
+    "order": 5
+  },
+  {
+    "content": "ذي نسب لم يحجب",
+    "poem_id": 33294,
+    "poet_id": 1056,
+    "type": 2,
+    "order": 6
+  },
+  {
+    "content": "طرقت نفيسة والدجى لم ينجل",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 1,
+    "order": 1
+  },
+  {
+    "content": "فاهيم منها في هواي بهولة",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 2,
+    "order": 2
+  },
+  {
+    "content": "جملاء في أنف الشباب الأجمل",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 1,
+    "order": 3
+  },
+  {
+    "content": "خرعوبة رعوبةب بهنانة",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 2,
+    "order": 4
+  },
+  {
+    "content": "وهناتة نفج الحقيبة عيطل",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 1,
+    "order": 5
+  },
+  {
+    "content": "رود بخنداة رداح خدلة",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 2,
+    "order": 6
+  },
+  {
+    "content": "خود برخداة اناة عطبل",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 1,
+    "order": 7
+  },
+  {
+    "content": "لعب الهوى بجوانحي وجوارحي",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 2,
+    "order": 8
+  },
+  {
+    "content": "ما بين مبتسم لها ومقبل",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 1,
+    "order": 9
+  },
+  {
+    "content": "فيها شفاء الصب من برحائه",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 2,
+    "order": 10
+  },
+  {
+    "content": "وحياة قلب بالغرام مقتل",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 1,
+    "order": 11
+  },
+  {
+    "content": "هيهات شهد النحل من صلوانه",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 2,
+    "order": 12
+  },
+  {
+    "content": "والمسك من عرف له متعلل",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 1,
+    "order": 13
+  },
+  {
+    "content": "يا طيبه للصب لو جادت به",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 2,
+    "order": 14
+  },
+  {
+    "content": "أو نولته الصب بعض منول",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 1,
+    "order": 15
+  },
+  {
+    "content": "فلطالما ولطالما بخلت به",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 2,
+    "order": 16
+  },
+  {
+    "content": "ولقلما ولقلما لم تبخل",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 1,
+    "order": 17
+  },
+  {
+    "content": "يا حبذا ما نولته وحبذا",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 2,
+    "order": 18
+  },
+  {
+    "content": "ما لم تنول من عطاء مقلل",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 1,
+    "order": 19
+  },
+  {
+    "content": "ولنعم ما سمحت وما شحت به",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 2,
+    "order": 20
+  },
+  {
+    "content": "ولنعم ما بذلت وما لم تبذل",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 1,
+    "order": 21
+  },
+  {
+    "content": "ولحبذا هي من حبيب مجزع",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 2,
+    "order": 22
+  },
+  {
+    "content": "ولحبذا هي من حبيب مجذل",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 1,
+    "order": 23
+  },
+  {
+    "content": "تلكم كناتة من قريش سادة",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 2,
+    "order": 24
+  },
+  {
+    "content": "من صخرة اللّه التي لم تنكل",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 1,
+    "order": 25
+  },
+  {
+    "content": "شهد النبي لها بهذا معلنا",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 2,
+    "order": 26
+  },
+  {
+    "content": "خبرا صحيحا لا يرام لمبطل",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 1,
+    "order": 27
+  },
+  {
+    "content": "فرع الكرام بنو الكرام ذووهم",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 2,
+    "order": 28
+  },
+  {
+    "content": "من كل أروع زول قوم مزيل",
+    "poem_id": 33295,
+    "poet_id": 1057,
+    "type": 1,
+    "order": 29
+  }
+]

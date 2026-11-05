@@ -1,0 +1,711 @@
+[
+  {
+    "id": 1,
+    "name_ar": "أحذ الكامل",
+    "name_en": "ahd-el-kamel",
+    "aliases": [
+      "احذ الكامل",
+      "أحذ كامل",
+      "احذ كامل",
+      "ahd al kamel",
+      "ahd al-kamel"
+    ]
+  },
+  {
+    "id": 2,
+    "name_ar": "أحذ المديد",
+    "name_en": "ahd-el-madid",
+    "aliases": [
+      "احذ المديد",
+      "أحذ مديد",
+      "احذ مديد",
+      "ahd al madid",
+      "ahd al-madid"
+    ]
+  },
+  {
+    "id": 3,
+    "name_ar": "أحذ الوافر",
+    "name_en": "ahd-el-wafer",
+    "aliases": [
+      "احذ الوافر",
+      "أحذ وافر",
+      "احذ وافر",
+      "ahd al wafer",
+      "ahd al-wafer"
+    ]
+  },
+  {
+    "id": 4,
+    "name_ar": "البسيط",
+    "name_en": "bassit",
+    "aliases": [
+      "بسيط",
+      "بحر البسيط",
+      "al-bassit",
+      "al bassit",
+      "bahr al-basit"
+    ]
+  },
+  {
+    "id": 5,
+    "name_ar": "التفعيله",
+    "name_en": "el-taf3ila",
+    "aliases": [
+      "التفعيلة",
+      "التفعيلية",
+      "التفعلة",
+      "تفعيلة",
+      "al-taf'ila",
+      "al tafila",
+      "tafeela"
+    ]
+  },
+  {
+    "id": 6,
+    "name_ar": "الخبب",
+    "name_en": "el-khbb",
+    "aliases": [
+      "خبب",
+      "بحر الخبب",
+      "al-khabab",
+      "al khabab",
+      "khabb"
+    ]
+  },
+  {
+    "id": 7,
+    "name_ar": "الخفيف",
+    "name_en": "el-khafif",
+    "aliases": [
+      "خفيف",
+      "بحر الخفيف",
+      "al-khafif",
+      "al khafif",
+      "bahr al-khafif"
+    ]
+  },
+  {
+    "id": 8,
+    "name_ar": "الدوبيت",
+    "name_en": "el-dobit",
+    "aliases": [
+      "دوبيت",
+      "بحر الدوبيت",
+      "al-dobait",
+      "al dobait",
+      "dubait"
+    ]
+  },
+  {
+    "id": 9,
+    "name_ar": "الرجز",
+    "name_en": "el-rijz",
+    "aliases": [
+      "رجز",
+      "بحر الرجز",
+      "al-rajaz",
+      "al rajaz",
+      "bahr al-rajaz"
+    ]
+  },
+  {
+    "id": 10,
+    "name_ar": "الرمل",
+    "name_en": "el-raml",
+    "aliases": [
+      "رمل",
+      "بحر الرمل",
+      "al-ramal",
+      "al ramal",
+      "bahr al-raml"
+    ]
+  },
+  {
+    "id": 11,
+    "name_ar": "السريع",
+    "name_en": "el-sari3",
+    "aliases": [
+      "سريع",
+      "بحر السريع",
+      "al-sari'",
+      "al sari",
+      "bahr al-sari"
+    ]
+  },
+  {
+    "id": 12,
+    "name_ar": "السلسلة",
+    "name_en": "el-silsila",
+    "aliases": [
+      "سلسلة",
+      "بحر السلسلة",
+      "al-silsilah",
+      "al silsila"
+    ]
+  },
+  {
+    "id": 13,
+    "name_ar": "الطويل",
+    "name_en": "el-tawil",
+    "aliases": [
+      "طويل",
+      "بحر الطويل",
+      "al-tawil",
+      "al tawil",
+      "bahr al-tawil"
+    ]
+  },
+  {
+    "id": 14,
+    "name_ar": "القوما",
+    "name_en": "el-gouma",
+    "aliases": [
+      "قوما",
+      "شعر القوما",
+      "al-quma",
+      "al quma"
+    ]
+  },
+  {
+    "id": 15,
+    "name_ar": "الكامل",
+    "name_en": "el-kamel",
+    "aliases": [
+      "كامل",
+      "بحر الكامل",
+      "al-kamil",
+      "al kamil",
+      "bahr al-kamil"
+    ]
+  },
+  {
+    "id": 16,
+    "name_ar": "الكامل المقطوع",
+    "name_en": "el-kamel-elma9tou3",
+    "aliases": [
+      "كامل مقطوع",
+      "الكامل المقطوع",
+      "al-kamil al-maqtu'",
+      "al kamil al maqtu"
+    ]
+  },
+  {
+    "id": 17,
+    "name_ar": "المتدارك",
+    "name_en": "el-motaderick",
+    "aliases": [
+      "متدارك",
+      "بحر المتدارك",
+      "al-mutadarik",
+      "al mutadarik",
+      "bahr al-mutadarak"
+    ]
+  },
+  {
+    "id": 18,
+    "name_ar": "المتدارك المنهوك",
+    "name_en": "el-motaderick-el-manhouk",
+    "aliases": [
+      "متدارك منهوك",
+      "المتدارك المنهوك",
+      "al-mutadarik al-manhuk",
+      "al mutadarik al manhuk"
+    ]
+  },
+  {
+    "id": 19,
+    "name_ar": "المتقارب",
+    "name_en": "el-mota9areb",
+    "aliases": [
+      "متقارب",
+      "بحر المتقارب",
+      "al-mutaqarib",
+      "al mutaqarib",
+      "bahr al-mutaqarib"
+    ]
+  },
+  {
+    "id": 20,
+    "name_ar": "المجتث",
+    "name_en": "el-mojateth",
+    "aliases": [
+      "مجتث",
+      "بحر المجتث",
+      "al-mujtath",
+      "al mujtath",
+      "bahr al-mujtath"
+    ]
+  },
+  {
+    "id": 21,
+    "name_ar": "المديد",
+    "name_en": "el-madid",
+    "aliases": [
+      "مديد",
+      "بحر المديد",
+      "al-madid",
+      "al madid",
+      "bahr al-madid"
+    ]
+  },
+  {
+    "id": 22,
+    "name_ar": "المضارع",
+    "name_en": "el-modare3",
+    "aliases": [
+      "مضارع",
+      "بحر المضارع",
+      "al-mudari'",
+      "al mudari",
+      "bahr al-mudari"
+    ]
+  },
+  {
+    "id": 23,
+    "name_ar": "المقتضب",
+    "name_en": "el-mo9tadeb",
+    "aliases": [
+      "مقتضب",
+      "بحر المقتضب",
+      "al-muqtadab",
+      "al muqtadab",
+      "bahr al-muqtadab"
+    ]
+  },
+  {
+    "id": 24,
+    "name_ar": "المنسرح",
+    "name_en": "el-monsareh",
+    "aliases": [
+      "منسرح",
+      "بحر المنسرح",
+      "al-munsarih",
+      "al munsarih",
+      "bahr al-munsarih"
+    ]
+  },
+  {
+    "id": 25,
+    "name_ar": "المواليا",
+    "name_en": "el-moualia",
+    "aliases": [
+      "مواليا",
+      "شعر المواليا",
+      "al-mawaliya",
+      "al mawaliya",
+      "mawalya"
+    ]
+  },
+  {
+    "id": 26,
+    "name_ar": "الهزج",
+    "name_en": "el-hazj",
+    "aliases": [
+      "هزج",
+      "بحر الهزج",
+      "al-hazaj",
+      "al hazaj",
+      "bahr al-hazaj"
+    ]
+  },
+  {
+    "id": 27,
+    "name_ar": "الوافر",
+    "name_en": "el-wafer",
+    "aliases": [
+      "وافر",
+      "بحر الوافر",
+      "al-wafir",
+      "al wafir",
+      "bahr al-wafir"
+    ]
+  },
+  {
+    "id": 28,
+    "name_ar": "تفعيلة الرجز",
+    "name_en": "taf3ila-el-rijz",
+    "aliases": [
+      "تفعيلة رجز",
+      "تفعيلية الرجز",
+      "taf'ilat al-rajaz",
+      "tafilat al rajaz"
+    ]
+  },
+  {
+    "id": 29,
+    "name_ar": "تفعيلة الرمل",
+    "name_en": "taf3ila-el-ramel",
+    "aliases": [
+      "تفعيلة رمل",
+      "تفعيلية الرمل",
+      "taf'ilat al-ramal",
+      "tafilat al ramal"
+    ]
+  },
+  {
+    "id": 30,
+    "name_ar": "تفعيلة الكامل",
+    "name_en": "taf3ila-el-kamel",
+    "aliases": [
+      "تفعيلة كامل",
+      "تفعيلية الكامل",
+      "taf'ilat al-kamil",
+      "tafilat al kamil"
+    ]
+  },
+  {
+    "id": 31,
+    "name_ar": "تفعيلة المتقارب",
+    "name_en": "taf3ila-el-mota9areb",
+    "aliases": [
+      "تفعيلة متقارب",
+      "تفعيلية المتقارب",
+      "taf'ilat al-mutaqarib",
+      "tafilat al mutaqarib"
+    ]
+  },
+  {
+    "id": 32,
+    "name_ar": "مجزوء البسيط",
+    "name_en": "majzoua-el-bassit",
+    "aliases": [
+      "مجزوء بسيط",
+      "majzu al-basit",
+      "majzu al-bassit",
+      "majzoo al basit"
+    ]
+  },
+  {
+    "id": 33,
+    "name_ar": "مجزوء الخفيف",
+    "name_en": "majzoua-el-khafif",
+    "aliases": [
+      "مجزوء خفيف",
+      "majzu al-khafif",
+      "majzoo al khafif"
+    ]
+  },
+  {
+    "id": 34,
+    "name_ar": "مجزوء الدوبيت",
+    "name_en": "majzoua-el-dobit",
+    "aliases": [
+      "مجزوء دوبيت",
+      "majzu al-dobait",
+      "majzoo al dobait"
+    ]
+  },
+  {
+    "id": 35,
+    "name_ar": "مجزوء الرجز",
+    "name_en": "majzoua-el-rijz",
+    "aliases": [
+      "مجزوء رجز",
+      "majzu al-rajaz",
+      "majzoo al rajaz"
+    ]
+  },
+  {
+    "id": 36,
+    "name_ar": "مجزوء الرمل",
+    "name_en": "majzoua-el-ramel",
+    "aliases": [
+      "مجزوء رمل",
+      "majzu al-ramal",
+      "majzoo al ramal"
+    ]
+  },
+  {
+    "id": 37,
+    "name_ar": "مجزوء السريع",
+    "name_en": "majzoua-el-sari3",
+    "aliases": [
+      "مجزوء سريع",
+      "majzu al-sari'",
+      "majzoo al sari"
+    ]
+  },
+  {
+    "id": 38,
+    "name_ar": "مجزوء الطويل",
+    "name_en": "majzoua-el-tawil",
+    "aliases": [
+      "مجزوء طويل",
+      "majzu al-tawil",
+      "majzoo al tawil"
+    ]
+  },
+  {
+    "id": 39,
+    "name_ar": "مجزوء الكامل",
+    "name_en": "majzoua-el-kamel",
+    "aliases": [
+      "مجزوء كامل",
+      "majzu al-kamil",
+      "majzoo al kamil"
+    ]
+  },
+  {
+    "id": 40,
+    "name_ar": "مجزوء المتدارك",
+    "name_en": "majzoua-el-motaderick",
+    "aliases": [
+      "مجزوء متدارك",
+      "majzu al-mutadarik",
+      "majzoo al mutadarik"
+    ]
+  },
+  {
+    "id": 41,
+    "name_ar": "مجزوء المتقارب",
+    "name_en": "majzoua-el-mota9areb",
+    "aliases": [
+      "مجزوء متقارب",
+      "majzu al-mutaqarib",
+      "majzoo al mutaqarib"
+    ]
+  },
+  {
+    "id": 42,
+    "name_ar": "مجزوء المجتث",
+    "name_en": "majzoua-el-mojateth",
+    "aliases": [
+      "مجزوء مجتث",
+      "majzu al-mujtath",
+      "majzoo al mujtath"
+    ]
+  },
+  {
+    "id": 43,
+    "name_ar": "مجزوء المديد",
+    "name_en": "majzoua-el-madid",
+    "aliases": [
+      "مجزوء مديد",
+      "majzu al-madid",
+      "majzoo al madid"
+    ]
+  },
+  {
+    "id": 44,
+    "name_ar": "مجزوء المقتضب",
+    "name_en": "majzoua-el-mo9tadeb",
+    "aliases": [
+      "مجزوء مقتضب",
+      "majzu al-muqtadab",
+      "majzoo al muqtadab"
+    ]
+  },
+  {
+    "id": 45,
+    "name_ar": "مجزوء المنسرح",
+    "name_en": "majzoua-el-monsareh",
+    "aliases": [
+      "مجزوء منسرح",
+      "majzu al-munsarih",
+      "majzoo al munsarih"
+    ]
+  },
+  {
+    "id": 46,
+    "name_ar": "مجزوء المواليا",
+    "name_en": "majzoua-el-moualia",
+    "aliases": [
+      "مجزوء موالية",
+      "majzu al-mawaliya",
+      "majzoo al mawaliya"
+    ]
+  },
+  {
+    "id": 47,
+    "name_ar": "مجزوء الهزج",
+    "name_en": "majzoua-el-hazj",
+    "aliases": [
+      "مجزوء هزج",
+      "majzu al-hazaj",
+      "majzoo al hazaj"
+    ]
+  },
+  {
+    "id": 48,
+    "name_ar": "مجزوء الوافر",
+    "name_en": "majzoua-el-wafer",
+    "aliases": [
+      "مجزوء وافر",
+      "majzu al-wafir",
+      "majzoo al wafir"
+    ]
+  },
+  {
+    "id": 49,
+    "name_ar": "مجزوء موشح",
+    "name_en": "majzoua-el-mouchah",
+    "aliases": [
+      "مجزوء الموشح",
+      "majzu al-muwashah",
+      "majzoo al muwashah"
+    ]
+  },
+  {
+    "id": 50,
+    "name_ar": "مخلع البسيط",
+    "name_en": "mkhla3-el-bassit",
+    "aliases": [
+      "مخلع بسيط",
+      "mukhalla' al-basit",
+      "mukhalla al basit"
+    ]
+  },
+  {
+    "id": 51,
+    "name_ar": "مخلع الرجز",
+    "name_en": "mkhla3-el-rijz",
+    "aliases": [
+      "مخلع رجز",
+      "mukhalla' al-rajaz",
+      "mukhalla al rajaz"
+    ]
+  },
+  {
+    "id": 52,
+    "name_ar": "مخلع الرمل",
+    "name_en": "mkhla3-el-ramel",
+    "aliases": [
+      "مخلع رمل",
+      "mukhalla' al-ramal",
+      "mukhalla al ramal"
+    ]
+  },
+  {
+    "id": 53,
+    "name_ar": "مخلع السريع",
+    "name_en": "mkhla3-el-sari3",
+    "aliases": [
+      "مخلع سريع",
+      "mukhalla' al-sari'",
+      "mukhalla al sari"
+    ]
+  },
+  {
+    "id": 54,
+    "name_ar": "مخلع الكامل",
+    "name_en": "mkhla3-el-kamel",
+    "aliases": [
+      "مخلع كامل",
+      "mukhalla' al-kamil",
+      "mukhalla al kamil"
+    ]
+  },
+  {
+    "id": 55,
+    "name_ar": "مخلع موشح",
+    "name_en": "mkhla3-el-mouchah",
+    "aliases": [
+      "مخلع الموشح",
+      "mukhalla' al-muwashah",
+      "mukhalla al muwashah"
+    ]
+  },
+  {
+    "id": 56,
+    "name_ar": "مربع البسيط",
+    "name_en": "morabe3-el-bassit",
+    "aliases": [
+      "مربع بسيط",
+      "murabba' al-basit",
+      "murabba al basit"
+    ]
+  },
+  {
+    "id": 57,
+    "name_ar": "مربع الرجز",
+    "name_en": "morabe3-el-rijz",
+    "aliases": [
+      "مربع رجز",
+      "murabba' al-rajaz",
+      "murabba al rajaz"
+    ]
+  },
+  {
+    "id": 58,
+    "name_ar": "مشطور الرجز",
+    "name_en": "machtour-el-rijz",
+    "aliases": [
+      "مشطور رجز",
+      "mashtur al-rajaz",
+      "mashtoor al rajaz"
+    ]
+  },
+  {
+    "id": 59,
+    "name_ar": "مشطور السريع",
+    "name_en": "machtour-el-sari3",
+    "aliases": [
+      "مشطور سريع",
+      "mashtur al-sari'",
+      "mashtoor al sari"
+    ]
+  },
+  {
+    "id": 60,
+    "name_ar": "مشطور الطويل",
+    "name_en": "machtour-el-tawil",
+    "aliases": [
+      "مشطور طويل",
+      "mashtur al-tawil",
+      "mashtoor al tawil"
+    ]
+  },
+  {
+    "id": 61,
+    "name_ar": "منهوك البسيط",
+    "name_en": "manhouk-el-bassit",
+    "aliases": [
+      "منهوك بسيط",
+      "manhuk al-basit",
+      "manhook al basit"
+    ]
+  },
+  {
+    "id": 62,
+    "name_ar": "منهوك الرجز",
+    "name_en": "manhouk-el-rijz",
+    "aliases": [
+      "منهوك رجز",
+      "manhuk al-rajaz",
+      "manhook al rajaz"
+    ]
+  },
+  {
+    "id": 63,
+    "name_ar": "منهوك الكامل",
+    "name_en": "manhouk-el-kamel",
+    "aliases": [
+      "منهوك كامل",
+      "manhuk al-kamil",
+      "manhook al kamil"
+    ]
+  },
+  {
+    "id": 64,
+    "name_ar": "منهوك المنسرح",
+    "name_en": "manhouk-el-monsareh",
+    "aliases": [
+      "منهوك منسرح",
+      "manhuk al-munsarih",
+      "manhook al munsarih"
+    ]
+  },
+  {
+    "id": 65,
+    "name_ar": "موشح",
+    "name_en": "mouchah",
+    "aliases": [
+      "الموشح",
+      "موشحات",
+      "al-muwashah",
+      "muwashah",
+      "muwashshah"
+    ]
+  }
+]

@@ -1,0 +1,4088 @@
+[
+  {
+    "id": 25542,
+    "name": "وإني لضراب إذا الخيل أحجمت",
+    "poet_id": 458,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 16
+  },
+  {
+    "id": 25543,
+    "name": "لنعم بنو الهيجا رزام بن مازن",
+    "poet_id": 459,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 36
+  },
+  {
+    "id": 25544,
+    "name": "فمهما تسل عن نصرتي السيد لا تجد",
+    "poet_id": 459,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25545,
+    "name": "فيا راكبا إما عرضت فبلغن",
+    "poet_id": 459,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25546,
+    "name": "أقول وقد بزت بتعشار بزة",
+    "poet_id": 459,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 9
+  },
+  {
+    "id": 25547,
+    "name": "وإني لمولاك الذي لك نصره",
+    "poet_id": 459,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 29
+  },
+  {
+    "id": 25548,
+    "name": "وراحت أصيلانا، كأن ضروعها",
+    "poet_id": 459,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 9
+  },
+  {
+    "id": 25549,
+    "name": "قد قطعت البلاد في طلب الثر",
+    "poet_id": 460,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 7,
+    "quafia_id": 9
+  },
+  {
+    "id": 25550,
+    "name": "قد تجرعت بعد طول زماني",
+    "poet_id": 461,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 7,
+    "quafia_id": 10
+  },
+  {
+    "id": 25551,
+    "name": "للموت ما نغذى وللموت قصرنا",
+    "poet_id": 462,
+    "topic_id": 28,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25552,
+    "name": "إن مصاد بن جناب قد ذهب",
+    "poet_id": 462,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25553,
+    "name": "ما رغبتي في آخر العيش بعدما",
+    "poet_id": 462,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 9
+  },
+  {
+    "id": 25554,
+    "name": "لقد طوفت في الآفاق حتى",
+    "poet_id": 463,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 16
+  },
+  {
+    "id": 25555,
+    "name": "نبئت أن أبا عميرة لامني",
+    "poet_id": 463,
+    "topic_id": 17,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 16
+  },
+  {
+    "id": 25556,
+    "name": "حنتني حانيات الدهر حتى",
+    "poet_id": 463,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 16
+  },
+  {
+    "id": 25557,
+    "name": "لعمركما لو يسمع الموت قد أتى",
+    "poet_id": 464,
+    "topic_id": 6,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 16
+  },
+  {
+    "id": 25558,
+    "name": "جلست غدية وأبو عقيل",
+    "poet_id": 464,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 14
+  },
+  {
+    "id": 25559,
+    "name": "إن أمس ما شيخا كبيرا فطال ما",
+    "poet_id": 465,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 26
+  },
+  {
+    "id": 25560,
+    "name": "ألا رب نهب يخطر الموت دونه",
+    "poet_id": 466,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 31
+  },
+  {
+    "id": 25561,
+    "name": "معترض لعنن لم يعنه",
+    "poet_id": 467,
+    "topic_id": 9,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25562,
+    "name": "ألا رب أمر معضل قد ركبته",
+    "poet_id": 467,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 31
+  },
+  {
+    "id": 25563,
+    "name": "ألا هل لمن أجرى ثمانين حجة",
+    "poet_id": 468,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 8
+  },
+  {
+    "id": 25564,
+    "name": "أودى الشباب وحب الطلة الخبلة",
+    "poet_id": 469,
+    "topic_id": 6,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 9
+  },
+  {
+    "id": 25565,
+    "name": "ألا يا أيها المهدي إلينا",
+    "poet_id": 469,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 18
+  },
+  {
+    "id": 25566,
+    "name": "لك الويل لو عاينتني يا ابن مقيس",
+    "poet_id": 470,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 36
+  },
+  {
+    "id": 25567,
+    "name": "بليت وأفناني الزمان وأصبحت",
+    "poet_id": 470,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25568,
+    "name": "بني إني أرى فيما أرى عجبا",
+    "poet_id": 471,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 9
+  },
+  {
+    "id": 25569,
+    "name": "كبرت وطال العمر حتى كأنني",
+    "poet_id": 472,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 26
+  },
+  {
+    "id": 25570,
+    "name": "تهزأت عرسي واستنكرت",
+    "poet_id": 473,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 11,
+    "quafia_id": 18
+  },
+  {
+    "id": 25571,
+    "name": "فسعد أرحلت منها معدا",
+    "poet_id": 474,
+    "topic_id": 23,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 33
+  },
+  {
+    "id": 25572,
+    "name": "يا ربة العير رديه لمرتعه",
+    "poet_id": 474,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 33
+  },
+  {
+    "id": 25573,
+    "name": "لعمري لقد ذهب الأطيبان",
+    "poet_id": 474,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 19,
+    "quafia_id": 32
+  },
+  {
+    "id": 25574,
+    "name": "إني غفرت لظالمي ظلمي",
+    "poet_id": 474,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 1,
+    "quafia_id": 32
+  },
+  {
+    "id": 25575,
+    "name": "إن أشرب الخمر أشربها للذتها",
+    "poet_id": 474,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 31
+  },
+  {
+    "id": 25576,
+    "name": "أولئك قوم شيد الله فخرهم",
+    "poet_id": 474,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25577,
+    "name": "أرى الدهر سيفا قاطعا كل ساعة",
+    "poet_id": 474,
+    "topic_id": 28,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 16
+  },
+  {
+    "id": 25578,
+    "name": "قالت إياد قد رأينا نسبا",
+    "poet_id": 474,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25579,
+    "name": "من ذاك يا شداد عاد أصبحت",
+    "poet_id": 475,
+    "topic_id": 23,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 32
+  },
+  {
+    "id": 25580,
+    "name": "امنع من الأعداء عرضك لا تكن",
+    "poet_id": 476,
+    "topic_id": 23,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 35
+  },
+  {
+    "id": 25581,
+    "name": "جزى الله قابوس بن هند بفعله",
+    "poet_id": 476,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25582,
+    "name": "كبرت وطال العمر حتى كأنما",
+    "poet_id": 476,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 26
+  },
+  {
+    "id": 25583,
+    "name": "قصرنا علينا بالمقيظ لقاحنا",
+    "poet_id": 476,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 21
+  },
+  {
+    "id": 25584,
+    "name": "ألا هل أتاها أن شكة حازم",
+    "poet_id": 476,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 21
+  },
+  {
+    "id": 25585,
+    "name": "ضربت دوسر فينا ضربة",
+    "poet_id": 476,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 10,
+    "quafia_id": 18
+  },
+  {
+    "id": 25586,
+    "name": "أبى القلب أن يأتي السدير وأهله",
+    "poet_id": 476,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25587,
+    "name": "صفيي وابن أمي والمواسي",
+    "poet_id": 476,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 16
+  },
+  {
+    "id": 25588,
+    "name": "متى ما ير الناس الغني وجاره",
+    "poet_id": 476,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 16
+  },
+  {
+    "id": 25589,
+    "name": "لن تجمعوا ودي ومعتبتي",
+    "poet_id": 476,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 1,
+    "quafia_id": 16
+  },
+  {
+    "id": 25590,
+    "name": "لم يبقى يا جدجاد من لداتي",
+    "poet_id": 477,
+    "topic_id": 28,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25591,
+    "name": "أتى يروع بإبراق وإرعاد",
+    "poet_id": 477,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 16
+  },
+  {
+    "id": 25592,
+    "name": "لقد عمرت حتى صرت كلا",
+    "poet_id": 478,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 18
+  },
+  {
+    "id": 25593,
+    "name": "بليت وأفنتني السنون وأصبحت",
+    "poet_id": 479,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25594,
+    "name": "كبرت وساويت طسما وعادا",
+    "poet_id": 480,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 19,
+    "quafia_id": 16
+  },
+  {
+    "id": 25595,
+    "name": "أبا جعاد اليوم أفناك الكبر",
+    "poet_id": 481,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25596,
+    "name": "أميم أميم قد أودى شبابي",
+    "poet_id": 482,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 9
+  },
+  {
+    "id": 25597,
+    "name": "المرء يأمل أن يعيش",
+    "poet_id": 483,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 39,
+    "quafia_id": 18
+  },
+  {
+    "id": 25598,
+    "name": "يا أيها الباكي على شاته",
+    "poet_id": 483,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 11,
+    "quafia_id": 18
+  },
+  {
+    "id": 25599,
+    "name": "فنيت وأفناني الزمان وأصبحت",
+    "poet_id": 483,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 16
+  },
+  {
+    "id": 25600,
+    "name": "كم من أسير تائه فديته",
+    "poet_id": 483,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25601,
+    "name": "ألا هل شباب يشترى بعجيب",
+    "poet_id": 483,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 9
+  },
+  {
+    "id": 25602,
+    "name": "حتى متى الجشعم في الأحياء",
+    "poet_id": 484,
+    "topic_id": 28,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25603,
+    "name": "لقد صاحبت أقواما فأضحوا",
+    "poet_id": 485,
+    "topic_id": 28,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 5
+  },
+  {
+    "id": 25604,
+    "name": "ها ذاك تيم الله يبني بيته",
+    "poet_id": 486,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25605,
+    "name": "تأوبني الحنين بعيد هدء",
+    "poet_id": 487,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 33
+  },
+  {
+    "id": 25606,
+    "name": "أصبحت من بعد البزول رباعيا",
+    "poet_id": 487,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 31
+  },
+  {
+    "id": 25607,
+    "name": "فتى لم تلد أمه ثكلها",
+    "poet_id": 487,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 19,
+    "quafia_id": 18
+  },
+  {
+    "id": 25608,
+    "name": "فإلا يذد جهالكم ذو نهاكم",
+    "poet_id": 487,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 16
+  },
+  {
+    "id": 25609,
+    "name": "كأن رداءيه إذا ما ارتداهما",
+    "poet_id": 488,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25610,
+    "name": "إني امرؤ هدم الإقتار مأثرتي",
+    "poet_id": 489,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 18
+  },
+  {
+    "id": 25611,
+    "name": "ألم تر أن فحل السوء يسمو",
+    "poet_id": 490,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 9
+  },
+  {
+    "id": 25612,
+    "name": "ألا ليس الرزية فقد مال",
+    "poet_id": 491,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 18
+  },
+  {
+    "id": 25613,
+    "name": "إذا فخرت يوما نمير فقل لها",
+    "poet_id": 492,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 9
+  },
+  {
+    "id": 25614,
+    "name": "إن الديار بروضة الأجداد",
+    "poet_id": 493,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 16
+  },
+  {
+    "id": 25615,
+    "name": "فإنك يوم تأتيني حريبا",
+    "poet_id": 494,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 18
+  },
+  {
+    "id": 25616,
+    "name": "بلاد مروراة يحار بها القطا",
+    "poet_id": 495,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 29
+  },
+  {
+    "id": 25617,
+    "name": "لا تقصيا مربط القرحاء منتبذا",
+    "poet_id": 496,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 9
+  },
+  {
+    "id": 25618,
+    "name": "رب خيل وزعتها كالسعالي",
+    "poet_id": 496,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 7,
+    "quafia_id": 9
+  },
+  {
+    "id": 25619,
+    "name": "ولم يأت للأمر الذي حال دونه",
+    "poet_id": 497,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25620,
+    "name": "وعدت فلم تنجز وقدما وعدتني",
+    "poet_id": 497,
+    "topic_id": 17,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 26
+  },
+  {
+    "id": 25621,
+    "name": "واغتالها مهفهف هزلع",
+    "poet_id": 497,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25622,
+    "name": "وسريت لا جزعا ولا متهلعا",
+    "poet_id": 497,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 28
+  },
+  {
+    "id": 25623,
+    "name": "فوق جرد ضوامر سابحات",
+    "poet_id": 498,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 7,
+    "quafia_id": 31
+  },
+  {
+    "id": 25624,
+    "name": "وعتبة يعوي بالعراق وإن يكن",
+    "poet_id": 499,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 31
+  },
+  {
+    "id": 25625,
+    "name": "ألا أيهذا المزدري بعينه",
+    "poet_id": 501,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25626,
+    "name": "يغتاب عرضي خاليا",
+    "poet_id": 502,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 39,
+    "quafia_id": 18
+  },
+  {
+    "id": 25627,
+    "name": "تبين رسوما بالرويتج قد عفت",
+    "poet_id": 503,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 31
+  },
+  {
+    "id": 25628,
+    "name": "لعمرك ما ألياء بن عمرو",
+    "poet_id": 504,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 31
+  },
+  {
+    "id": 25629,
+    "name": "يا ليتني كلمت غير خارج",
+    "poet_id": 505,
+    "topic_id": 19,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25630,
+    "name": "قد صبحت والشمس يجري آلها",
+    "poet_id": 506,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": 31
+  },
+  {
+    "id": 25631,
+    "name": "كأن غرة خروب إذا طلعت",
+    "poet_id": 507,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 32
+  },
+  {
+    "id": 25632,
+    "name": "أبينا أبينا أن تغنوا بعامر",
+    "poet_id": 508,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 9
+  },
+  {
+    "id": 25633,
+    "name": "لقد علمت أفناء تغلب كلها",
+    "poet_id": 509,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25634,
+    "name": "حلفت بما لبى له كل محرم",
+    "poet_id": 510,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 31
+  },
+  {
+    "id": 25635,
+    "name": "نحن بني زيد بن عمرو في الذرا",
+    "poet_id": 511,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25636,
+    "name": "ولما رأوني في الكتيبة معلما",
+    "poet_id": 512,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 30
+  },
+  {
+    "id": 25637,
+    "name": "من مبلغ شيبان أنني",
+    "poet_id": 513,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 39,
+    "quafia_id": 36
+  },
+  {
+    "id": 25638,
+    "name": "سائل فقيما بالجفار ونهشلا",
+    "poet_id": 514,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 18
+  },
+  {
+    "id": 25639,
+    "name": "لعمرك ما قاد الجياد على الوجى",
+    "poet_id": 515,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25640,
+    "name": "قد عدتني حروب تغلب في القين",
+    "poet_id": 516,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 7,
+    "quafia_id": 5
+  },
+  {
+    "id": 25641,
+    "name": "لا كر إلا كر ذي القمطري",
+    "poet_id": 517,
+    "topic_id": 29,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25642,
+    "name": "إني من تغلب في أعلى النسب",
+    "poet_id": 517,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25643,
+    "name": "وقائعي في الخلق مشهورة",
+    "poet_id": 518,
+    "topic_id": 29,
+    "type_id": 1,
+    "sea_id": 11,
+    "quafia_id": 33
+  },
+  {
+    "id": 25644,
+    "name": "إن بني عدنان في علاها",
+    "poet_id": 518,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25645,
+    "name": "لله در فوارس من تغلب",
+    "poet_id": 519,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 18
+  },
+  {
+    "id": 25646,
+    "name": "يا مي لو أبصرتني وفوارسي",
+    "poet_id": 520,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 9
+  },
+  {
+    "id": 25647,
+    "name": "سائلي عني زهيرا تخبري",
+    "poet_id": 521,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 10,
+    "quafia_id": 28
+  },
+  {
+    "id": 25648,
+    "name": "نماني حبيب أبي للعلاء",
+    "poet_id": 522,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 19,
+    "quafia_id": 16
+  },
+  {
+    "id": 25649,
+    "name": "ألا تستحي منا ملوك وتتقي",
+    "poet_id": 523,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25650,
+    "name": "ولقد دعوت، طريف دعوة جاهل",
+    "poet_id": 523,
+    "topic_id": 29,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 32
+  },
+  {
+    "id": 25651,
+    "name": "عداني بالذنائب ما عداني",
+    "poet_id": 524,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 33
+  },
+  {
+    "id": 25652,
+    "name": "مضى الأصهار والخل الأكيد",
+    "poet_id": 525,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 16
+  },
+  {
+    "id": 25653,
+    "name": "أجرنا للحجيجة من أجارت",
+    "poet_id": 525,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 14
+  },
+  {
+    "id": 25654,
+    "name": "أحمي وأحمل بالخميس الملجب",
+    "poet_id": 525,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 9
+  },
+  {
+    "id": 25655,
+    "name": "سيعلم جيران الذين تحملوا",
+    "poet_id": 526,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25656,
+    "name": "غدا يوم فصل للفريقين فاصبري",
+    "poet_id": 526,
+    "topic_id": 29,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25657,
+    "name": "أتانا ابن عنق الحية القيل قادرا",
+    "poet_id": 527,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 31
+  },
+  {
+    "id": 25658,
+    "name": "تمنتنا بنو عدس بن زيد",
+    "poet_id": 528,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 1
+  },
+  {
+    "id": 25659,
+    "name": "لعمر أبيك والأنباء تنمي",
+    "poet_id": 528,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 31
+  },
+  {
+    "id": 25660,
+    "name": "ولو ان سلمى أبصرتني في الوغى",
+    "poet_id": 528,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 31
+  },
+  {
+    "id": 25661,
+    "name": "إن الرزية لا رزية مثلها",
+    "poet_id": 528,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 16
+  },
+  {
+    "id": 25662,
+    "name": "إذا أخوك لواك الحق معترضا",
+    "poet_id": 529,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 9
+  },
+  {
+    "id": 25663,
+    "name": "ولقد أمرت أخاك عمرا أمره",
+    "poet_id": 529,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 32
+  },
+  {
+    "id": 25664,
+    "name": "حلفت يمينا غير ذي مثنوية",
+    "poet_id": 529,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 16
+  },
+  {
+    "id": 25665,
+    "name": "وقريش هي التي تسكن البحر",
+    "poet_id": 530,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 7,
+    "quafia_id": 20
+  },
+  {
+    "id": 25666,
+    "name": "لما رأوا راية النعمان مقبلة",
+    "poet_id": 531,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 33
+  },
+  {
+    "id": 25667,
+    "name": "وكنت إذا ما باب ملك قرعته",
+    "poet_id": 532,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25668,
+    "name": "وليس بيربوع إلى العقل فاقة",
+    "poet_id": 532,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 9
+  },
+  {
+    "id": 25669,
+    "name": "وسائل جعفرا وبني أبيها",
+    "poet_id": 533,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 14
+  },
+  {
+    "id": 25670,
+    "name": "هم ملؤوا المسيل مسيل نجد",
+    "poet_id": 534,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 31
+  },
+  {
+    "id": 25671,
+    "name": "تجانف رضوان عن ضيفه",
+    "poet_id": 535,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 19,
+    "quafia_id": 18
+  },
+  {
+    "id": 25672,
+    "name": "إنا كذلك كان عادتنا",
+    "poet_id": 535,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 1,
+    "quafia_id": 18
+  },
+  {
+    "id": 25673,
+    "name": "وما انتهوا حتى قضى الله أمره",
+    "poet_id": 536,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25674,
+    "name": "وإن أمهل المرء في عمره",
+    "poet_id": 536,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 19,
+    "quafia_id": 29
+  },
+  {
+    "id": 25675,
+    "name": "اللؤم أكرم من وبر ووالده",
+    "poet_id": 537,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 16
+  },
+  {
+    "id": 25676,
+    "name": "إني ابن عمك حقا غير مؤتشب",
+    "poet_id": 537,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 29
+  },
+  {
+    "id": 25677,
+    "name": "لقد علمت سعد بن ضبة أننا",
+    "poet_id": 538,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 31
+  },
+  {
+    "id": 25678,
+    "name": "وإني لأعطي الملك من لست سائلا",
+    "poet_id": 539,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25679,
+    "name": "لعمري لقد أنستك حاجة مدرك",
+    "poet_id": 539,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25680,
+    "name": "تسائلني جنباء أين عشارها",
+    "poet_id": 539,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 21
+  },
+  {
+    "id": 25681,
+    "name": "تهزأ مني أخت آل طيسله",
+    "poet_id": 540,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": 31
+  },
+  {
+    "id": 25682,
+    "name": "تقول بنو سليم إذ رأوني",
+    "poet_id": 541,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": 33
+  },
+  {
+    "id": 25683,
+    "name": "أخطرت مهري في الرهان بحاجة",
+    "poet_id": 542,
+    "topic_id": 17,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 26
+  },
+  {
+    "id": 25684,
+    "name": "خرجن لهم من شق داراء بعدما",
+    "poet_id": 543,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25685,
+    "name": "إن المنية بالفتيان ذاهبة",
+    "poet_id": 544,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 26
+  },
+  {
+    "id": 25686,
+    "name": "وسائلة تسائل عن أبيها",
+    "poet_id": 544,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 18
+  },
+  {
+    "id": 25687,
+    "name": "أبلغ قبائل جعفر مخصوصة",
+    "poet_id": 544,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 9
+  },
+  {
+    "id": 25688,
+    "name": "أبوكم قصي كان يدعى مجمعا",
+    "poet_id": 545,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25689,
+    "name": "إلى القمر الساري المنير دعوته",
+    "poet_id": 545,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25690,
+    "name": "يا شيبة الحمد الذي تثنى له",
+    "poet_id": 545,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 18
+  },
+  {
+    "id": 25691,
+    "name": "مات الندى بالشام يوم ثوى كما",
+    "poet_id": 545,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 16
+  },
+  {
+    "id": 25692,
+    "name": "يا عين جودي وأذري الدمع وانهمري",
+    "poet_id": 545,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 10
+  },
+  {
+    "id": 25693,
+    "name": "يا ليلة هيجت ليلاتي",
+    "poet_id": 545,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 11,
+    "quafia_id": 10
+  },
+  {
+    "id": 25694,
+    "name": "قد سغب الحجيج بعد المطلب",
+    "poet_id": 545,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": 9
+  },
+  {
+    "id": 25695,
+    "name": "إذا ما أجازت صوفة النقب من منى",
+    "poet_id": 546,
+    "topic_id": 14,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25696,
+    "name": "إن العزيمة والعزاء قد ثويا",
+    "poet_id": 546,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 33
+  },
+  {
+    "id": 25697,
+    "name": "يا ثابت الخير ويا بن الأخنس",
+    "poet_id": 546,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25698,
+    "name": "أما رأيت الرجل العملطا",
+    "poet_id": 547,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25699,
+    "name": "عض لئيم المنتمى والعنصر",
+    "poet_id": 547,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25700,
+    "name": "فلو أن قومي أطاعوا الحليم",
+    "poet_id": 548,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 19,
+    "quafia_id": 32
+  },
+  {
+    "id": 25701,
+    "name": "تعرض ضيطارو فعالة دوننا",
+    "poet_id": 549,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 14
+  },
+  {
+    "id": 25702,
+    "name": "نبئت حيا وعوفا ينذرون دمي",
+    "poet_id": 549,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 29
+  },
+  {
+    "id": 25703,
+    "name": "قد علمت خيبر أني مرحب",
+    "poet_id": 550,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": 9
+  },
+  {
+    "id": 25704,
+    "name": "رد الخليط الجمال فانصرفوا",
+    "poet_id": 551,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 24,
+    "quafia_id": 28
+  },
+  {
+    "id": 25705,
+    "name": "آخ الكرام إن استطعت",
+    "poet_id": 551,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 39,
+    "quafia_id": 31
+  },
+  {
+    "id": 25706,
+    "name": "طال الثواء بمأرب",
+    "poet_id": 552,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 39,
+    "quafia_id": 32
+  },
+  {
+    "id": 25707,
+    "name": "كذب العتيق وماء شن بارد",
+    "poet_id": 552,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 9
+  },
+  {
+    "id": 25708,
+    "name": "أي همس حالم الإيقاع نشوان الصدى",
+    "poet_id": 553,
+    "topic_id": 19,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25709,
+    "name": "دارت على مهجة الصادي ترويها",
+    "poet_id": 553,
+    "topic_id": 19,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 36
+  },
+  {
+    "id": 25710,
+    "name": "موكب الخالدين",
+    "poet_id": 553,
+    "topic_id": 26,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25711,
+    "name": "بورسعيد رمز الفداء",
+    "poet_id": 553,
+    "topic_id": 29,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25712,
+    "name": "نشيد البعث",
+    "poet_id": 553,
+    "topic_id": 3,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25713,
+    "name": "دعا الفجر",
+    "poet_id": 553,
+    "topic_id": 29,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25714,
+    "name": "الشاطئ الظامئ",
+    "poet_id": 553,
+    "topic_id": 6,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25715,
+    "name": "رباعيات الروابى",
+    "poet_id": 553,
+    "topic_id": 28,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25716,
+    "name": "هنا القاهرة",
+    "poet_id": 553,
+    "topic_id": 25,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25717,
+    "name": "حكاية من الصين",
+    "poet_id": 553,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25718,
+    "name": "دم العشاق",
+    "poet_id": 553,
+    "topic_id": 19,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 36
+  },
+  {
+    "id": 25719,
+    "name": "رقصة",
+    "poet_id": 553,
+    "topic_id": 19,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25720,
+    "name": "المعادى",
+    "poet_id": 553,
+    "topic_id": 19,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25721,
+    "name": "أواه",
+    "poet_id": 553,
+    "topic_id": 19,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25722,
+    "name": "الروابي الخضر",
+    "poet_id": 553,
+    "topic_id": 25,
+    "type_id": 1,
+    "sea_id": 10,
+    "quafia_id": null
+  },
+  {
+    "id": 25723,
+    "name": "بين إثمي وإرتكابك !",
+    "poet_id": 554,
+    "topic_id": 6,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25724,
+    "name": "يا علي",
+    "poet_id": 554,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25725,
+    "name": "وادي جدر",
+    "poet_id": 554,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": 9
+  },
+  {
+    "id": 25726,
+    "name": "فيمتو",
+    "poet_id": 554,
+    "topic_id": 17,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": 10
+  },
+  {
+    "id": 25727,
+    "name": "على مرمى ضجر",
+    "poet_id": 554,
+    "topic_id": 19,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25728,
+    "name": "إمارة",
+    "poet_id": 554,
+    "topic_id": 19,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": 29
+  },
+  {
+    "id": 25729,
+    "name": "جبل",
+    "poet_id": 554,
+    "topic_id": 19,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25730,
+    "name": "نعيق",
+    "poet_id": 554,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": 9
+  },
+  {
+    "id": 25731,
+    "name": "فطوم",
+    "poet_id": 554,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": 16
+  },
+  {
+    "id": 25732,
+    "name": "كفران",
+    "poet_id": 554,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": 16
+  },
+  {
+    "id": 25733,
+    "name": "صك إفراغ",
+    "poet_id": 554,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": 30
+  },
+  {
+    "id": 25734,
+    "name": "فتوى",
+    "poet_id": 554,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25735,
+    "name": "شيء",
+    "poet_id": 554,
+    "topic_id": 19,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": 5
+  },
+  {
+    "id": 25736,
+    "name": "حالة تسلل",
+    "poet_id": 554,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25737,
+    "name": "أحد.. أحد",
+    "poet_id": 554,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25738,
+    "name": "سوى أني",
+    "poet_id": 554,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25739,
+    "name": "زلزلة",
+    "poet_id": 554,
+    "topic_id": 23,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": 9
+  },
+  {
+    "id": 25740,
+    "name": "متقاعد",
+    "poet_id": 554,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 32
+  },
+  {
+    "id": 25741,
+    "name": "نجلاء أيضاً",
+    "poet_id": 554,
+    "topic_id": 19,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25742,
+    "name": "كشف حساب",
+    "poet_id": 554,
+    "topic_id": 24,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25743,
+    "name": "فنجان في زوبعة",
+    "poet_id": 554,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25744,
+    "name": "نجلاء",
+    "poet_id": 554,
+    "topic_id": 19,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": 14
+  },
+  {
+    "id": 25745,
+    "name": "دردشة عند قبر عربي",
+    "poet_id": 554,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": 10
+  },
+  {
+    "id": 25746,
+    "name": "أبلسه",
+    "poet_id": 554,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": 10
+  },
+  {
+    "id": 25747,
+    "name": "عرب أكثر",
+    "poet_id": 554,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25748,
+    "name": "صباح",
+    "poet_id": 554,
+    "topic_id": 10,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25749,
+    "name": "ننتظر البطل",
+    "poet_id": 555,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25750,
+    "name": "انتظرناك طويلا",
+    "poet_id": 555,
+    "topic_id": 17,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25751,
+    "name": "عاش الوطن",
+    "poet_id": 555,
+    "topic_id": 24,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25752,
+    "name": "لا بد أن تغيب",
+    "poet_id": 555,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25753,
+    "name": "بقاؤكم مستحيل",
+    "poet_id": 555,
+    "topic_id": 26,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25754,
+    "name": "وكبرتِ يا عمري سنة",
+    "poet_id": 555,
+    "topic_id": 14,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25755,
+    "name": "وطني معي .!",
+    "poet_id": 555,
+    "topic_id": 26,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25756,
+    "name": "أبطال بلادي",
+    "poet_id": 555,
+    "topic_id": 26,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25757,
+    "name": "أمسكي الدفة .!",
+    "poet_id": 555,
+    "topic_id": 29,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25758,
+    "name": "لبوا الندا",
+    "poet_id": 555,
+    "topic_id": 24,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25759,
+    "name": "رسمة",
+    "poet_id": 555,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25760,
+    "name": "العراب",
+    "poet_id": 555,
+    "topic_id": 24,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25761,
+    "name": "أهذا سيعطيك دولة ؟!",
+    "poet_id": 555,
+    "topic_id": 24,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25762,
+    "name": "أفضل للجميع",
+    "poet_id": 555,
+    "topic_id": 24,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25763,
+    "name": "تأبط شـراً",
+    "poet_id": 555,
+    "topic_id": 24,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25764,
+    "name": "عنزة ولو طارت .!",
+    "poet_id": 555,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25765,
+    "name": "اجعل البر أمانا",
+    "poet_id": 555,
+    "topic_id": 23,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25766,
+    "name": "ما أروعك",
+    "poet_id": 555,
+    "topic_id": 22,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25767,
+    "name": "رسالة للعم جمال",
+    "poet_id": 555,
+    "topic_id": 26,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25768,
+    "name": "ثلاث سنين",
+    "poet_id": 555,
+    "topic_id": 26,
+    "type_id": 4,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25769,
+    "name": "كليك click",
+    "poet_id": 555,
+    "topic_id": 10,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25770,
+    "name": "لو أنكم معنا !",
+    "poet_id": 555,
+    "topic_id": 17,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25771,
+    "name": "شت اب !",
+    "poet_id": 555,
+    "topic_id": 24,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25772,
+    "name": "من ينقذ الأميرة؟",
+    "poet_id": 555,
+    "topic_id": 24,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25773,
+    "name": "بدر التمام",
+    "poet_id": 555,
+    "topic_id": 24,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25774,
+    "name": "أيها العيد كن سعيدا !",
+    "poet_id": 555,
+    "topic_id": 6,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25775,
+    "name": "لو كنت مثل الأخريات",
+    "poet_id": 555,
+    "topic_id": 25,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25776,
+    "name": "لم أبكي؟!",
+    "poet_id": 555,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25777,
+    "name": "كوكب",
+    "poet_id": 555,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25778,
+    "name": "عندما حدثت البحر",
+    "poet_id": 555,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25779,
+    "name": "وقعت في الـ .. ؟!",
+    "poet_id": 555,
+    "topic_id": 13,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25780,
+    "name": "فنان",
+    "poet_id": 555,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25781,
+    "name": "اعتراف",
+    "poet_id": 555,
+    "topic_id": 10,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25782,
+    "name": "صور وبعض من كلام",
+    "poet_id": 555,
+    "topic_id": 10,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25783,
+    "name": "طلع البدر",
+    "poet_id": 555,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25784,
+    "name": "بانتظار البرابرة",
+    "poet_id": 555,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25785,
+    "name": "ماذا تبقى من أمور مستجدة؟",
+    "poet_id": 555,
+    "topic_id": 10,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25786,
+    "name": "الآخرون",
+    "poet_id": 555,
+    "topic_id": 26,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25787,
+    "name": "النسر يأكل قلبي",
+    "poet_id": 555,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25788,
+    "name": "أحتاج بعض الوقت",
+    "poet_id": 555,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25789,
+    "name": "زمان الكفاح",
+    "poet_id": 555,
+    "topic_id": 16,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25790,
+    "name": "المهاجر",
+    "poet_id": 555,
+    "topic_id": 14,
+    "type_id": 3,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25791,
+    "name": "يا رب خمسين سمان بدن",
+    "poet_id": 556,
+    "topic_id": 1,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25792,
+    "name": "الحمد لله الذي أعطاني",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25793,
+    "name": "اللهم رب مئة لم تقسم",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25794,
+    "name": "اللهم أنت هديتني لزمزم",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25795,
+    "name": "أعيذه بالله بارئ النسم",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25796,
+    "name": "أيها الداعي لقد أسمعتني",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 10,
+    "quafia_id": 32
+  },
+  {
+    "id": 25797,
+    "name": "لو دام لي هذا السواد حمدته",
+    "poet_id": 556,
+    "topic_id": 28,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25798,
+    "name": "الحمد لله على ما أنعما",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25799,
+    "name": "منعت من أبرهة الحطيما",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25800,
+    "name": "عذت بما عاذ به إبراهم",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25801,
+    "name": "صرمت وما لك لا تصرم",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 19,
+    "quafia_id": 32
+  },
+  {
+    "id": 25802,
+    "name": "رب الثلاثين ولي النعم",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25803,
+    "name": "تأبى مازن وبنو عدي",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 32
+  },
+  {
+    "id": 25804,
+    "name": "يا رب الثمانين ورب الإهلال",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25805,
+    "name": "لما سمعت الأشرم الضئيلا",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 58,
+    "quafia_id": null
+  },
+  {
+    "id": 25806,
+    "name": "يا رب قد أعطيتني سؤالي",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25807,
+    "name": "يا طول ليلي وأحزاني وأشغالي",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 31
+  },
+  {
+    "id": 25808,
+    "name": "يا رب لا أرجو لهم سواكا",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25809,
+    "name": "لاهم إن العبد يمنع",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 39,
+    "quafia_id": 30
+  },
+  {
+    "id": 25810,
+    "name": "لا تحسبي شيم الفتيان واحدة",
+    "poet_id": 556,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 29
+  },
+  {
+    "id": 25811,
+    "name": "يا رب تسعين ورب المشرع",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25812,
+    "name": "يا رب عشرين ورب الشفع",
+    "poet_id": 556,
+    "topic_id": 1,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25813,
+    "name": "أبلغ بني النجار إن جئتهم",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 11,
+    "quafia_id": 21
+  },
+  {
+    "id": 25814,
+    "name": "اللهم رب الستين ورب المشعر",
+    "poet_id": 556,
+    "topic_id": 1,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25815,
+    "name": "ظني بعباس بني إن كبر",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25816,
+    "name": "الله ربي وأنا موف نذره",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25817,
+    "name": "دعوت ربي مخفيا وجهرا",
+    "poet_id": 556,
+    "topic_id": 1,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25818,
+    "name": "منعت أبرهة الأرض التي حميت",
+    "poet_id": 556,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 18
+  },
+  {
+    "id": 25819,
+    "name": "سقى الإله صدى واريته بيدي",
+    "poet_id": 556,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 18
+  },
+  {
+    "id": 25820,
+    "name": "لاهم رب الراكب المسافر",
+    "poet_id": 556,
+    "topic_id": 1,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25821,
+    "name": "سأوصي زبيرا إن توافت منيتي",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25822,
+    "name": "اللهم أنت الملك المحمود",
+    "poet_id": 556,
+    "topic_id": 1,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25823,
+    "name": "اللهم إنك فاعل لما ترد",
+    "poet_id": 556,
+    "topic_id": 1,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25824,
+    "name": "عاهدت ربي وأنا موف عهده",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25825,
+    "name": "يا رب رد راكبي محمدا",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 58,
+    "quafia_id": null
+  },
+  {
+    "id": 25826,
+    "name": "يا أهل مكة قد وافاكم ملك",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 16
+  },
+  {
+    "id": 25827,
+    "name": "يا رب لا تشمت بي الأعادي",
+    "poet_id": 556,
+    "topic_id": 1,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25828,
+    "name": "الحمد للخالق لا العباد",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25829,
+    "name": "أوصيك يا عبد مناف بعدي",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25830,
+    "name": "كأنه في العز قيس بن عدي",
+    "poet_id": 556,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25831,
+    "name": "دعوت ربي دعوة المناصح",
+    "poet_id": 556,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 58,
+    "quafia_id": null
+  },
+  {
+    "id": 25832,
+    "name": "اللهم لا يخرج عليه القدح",
+    "poet_id": 556,
+    "topic_id": 1,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25833,
+    "name": "يا رب سبعين له قد جمعت",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 58,
+    "quafia_id": null
+  },
+  {
+    "id": 25834,
+    "name": "الله رب الأربعين إذا بلغت",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25835,
+    "name": "دعوت ربي دعوة المغلوب",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25836,
+    "name": "أوصيت من كنيته بطالب",
+    "poet_id": 556,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 58,
+    "quafia_id": null
+  },
+  {
+    "id": 25837,
+    "name": "ألا من مبلغ أبناء فهم",
+    "poet_id": 557,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 33
+  },
+  {
+    "id": 25838,
+    "name": "تحن إلى أوطانها إبل مالك",
+    "poet_id": 557,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 30
+  },
+  {
+    "id": 25839,
+    "name": "تحن إلى أوطانها بزل مالك",
+    "poet_id": 557,
+    "topic_id": 14,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 28
+  },
+  {
+    "id": 25840,
+    "name": "الأزد قومي وهم إذا نزلت",
+    "poet_id": 557,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 24,
+    "quafia_id": 9
+  },
+  {
+    "id": 25841,
+    "name": "أبلغ أبيدة أني غير ساكنها",
+    "poet_id": 558,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 18
+  },
+  {
+    "id": 25842,
+    "name": "إني رميت بغير ثائرة",
+    "poet_id": 559,
+    "topic_id": 2,
+    "type_id": 1,
+    "sea_id": 1,
+    "quafia_id": 32
+  },
+  {
+    "id": 25843,
+    "name": "أحسست ليلا وقع أخفاف الإبل",
+    "poet_id": 559,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25844,
+    "name": "هل قنص أم لا لهذا القانص",
+    "poet_id": 559,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25845,
+    "name": "كفى حزنا أني مقيم ببلدة",
+    "poet_id": 559,
+    "topic_id": 14,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 16
+  },
+  {
+    "id": 25846,
+    "name": "أبلغا عامرا وكعبا رسولا",
+    "poet_id": 560,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 7,
+    "quafia_id": 29
+  },
+  {
+    "id": 25847,
+    "name": "ساكني الأبطح إني بعدكم",
+    "poet_id": 560,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 10,
+    "quafia_id": 16
+  },
+  {
+    "id": 25848,
+    "name": "أتاني حرث حين ضاق بأمره",
+    "poet_id": 561,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25849,
+    "name": "ولقد أقدم في الرو",
+    "poet_id": 562,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 10,
+    "quafia_id": 28
+  },
+  {
+    "id": 25850,
+    "name": "تسائلني عما تنفست ويحها",
+    "poet_id": 563,
+    "topic_id": 29,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25851,
+    "name": "ألم ترني ثأرت أبي كليبا",
+    "poet_id": 563,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": 31
+  },
+  {
+    "id": 25852,
+    "name": "يا للرجال لقلب ما له آس",
+    "poet_id": 563,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 21
+  },
+  {
+    "id": 25853,
+    "name": "أصاب أبي خالي وما أنا بالذي",
+    "poet_id": 563,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 16
+  },
+  {
+    "id": 25854,
+    "name": "جزى الله عباد بن عمرو ورهطه",
+    "poet_id": 564,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 19
+  },
+  {
+    "id": 25855,
+    "name": "هلا سألت بني السفاح هل شعروا",
+    "poet_id": 565,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 33
+  },
+  {
+    "id": 25856,
+    "name": "ومقامة غلب الرقاب شهدتهم",
+    "poet_id": 565,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 9
+  },
+  {
+    "id": 25857,
+    "name": "حنت نوار ولات هنا حنت",
+    "poet_id": 566,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 10
+  },
+  {
+    "id": 25858,
+    "name": "إن امرأ ورث الثوير ومالكا",
+    "poet_id": 567,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 31
+  },
+  {
+    "id": 25859,
+    "name": "ولقد شهدت الخيل تحمل شكتي",
+    "poet_id": 567,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 31
+  },
+  {
+    "id": 25860,
+    "name": "ليبك ابن كلثوم فقد حان يومه",
+    "poet_id": 567,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 26
+  },
+  {
+    "id": 25861,
+    "name": "ما بامرئ من ضؤلة في وائل",
+    "poet_id": 567,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 31
+  },
+  {
+    "id": 25862,
+    "name": "فقلة أرواض النخيلة عريت",
+    "poet_id": 568,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25863,
+    "name": "ألا لا مرحبا بفراق ليلى",
+    "poet_id": 569,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 9
+  },
+  {
+    "id": 25864,
+    "name": "سنانا دعوت وأشياعه",
+    "poet_id": 570,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 19,
+    "quafia_id": 32
+  },
+  {
+    "id": 25865,
+    "name": "تمنيت أن تلقى لقاح ابن محرز",
+    "poet_id": 571,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25866,
+    "name": "أيدعونني شيخا وقد عشت حقبة",
+    "poet_id": 572,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 26
+  },
+  {
+    "id": 25867,
+    "name": "أصبحت يا أم بكر قد تخونني",
+    "poet_id": 572,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 18
+  },
+  {
+    "id": 25868,
+    "name": "يا لهف أمك لا تلهف غيرها",
+    "poet_id": 573,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 18
+  },
+  {
+    "id": 25869,
+    "name": "متى تفخر بزرعة أو بحجر",
+    "poet_id": 574,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 5
+  },
+  {
+    "id": 25870,
+    "name": "ألا أبلغ أبا بكر رسولا",
+    "poet_id": 575,
+    "topic_id": 17,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 16
+  },
+  {
+    "id": 25871,
+    "name": "ألا من مبلغ فتيان قومي",
+    "poet_id": 576,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 26
+  },
+  {
+    "id": 25872,
+    "name": "يا أيها الهاتف فوق الصخرة",
+    "poet_id": 576,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25873,
+    "name": "ألم تر صاحب الملكين أضحى",
+    "poet_id": 577,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 33
+  },
+  {
+    "id": 25874,
+    "name": "نطق اليشكري منا فأبدى",
+    "poet_id": 578,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 7,
+    "quafia_id": 33
+  },
+  {
+    "id": 25875,
+    "name": "فإن يك صدر هذا اليوم ولى",
+    "poet_id": 578,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 9
+  },
+  {
+    "id": 25876,
+    "name": "حسبنا الكبش يضرب حاجبيه",
+    "poet_id": 579,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 33
+  },
+  {
+    "id": 25877,
+    "name": "حين سعى الفاروق في قومه",
+    "poet_id": 579,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 11,
+    "quafia_id": 14
+  },
+  {
+    "id": 25878,
+    "name": "أبلغ أبا عمرو وأن",
+    "poet_id": 580,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 39,
+    "quafia_id": 11
+  },
+  {
+    "id": 25879,
+    "name": "تركت كعبا وكعب قائم ردن",
+    "poet_id": 581,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 32
+  },
+  {
+    "id": 25880,
+    "name": "ما زلت أضربه وأنعى مالكا",
+    "poet_id": 582,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 31
+  },
+  {
+    "id": 25881,
+    "name": "وإن يك صادقا بالتيم ظني",
+    "poet_id": 583,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 32
+  },
+  {
+    "id": 25882,
+    "name": "ألا يا عين جودي باندفاق",
+    "poet_id": 583,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 29
+  },
+  {
+    "id": 25883,
+    "name": "ومحصنة قد طلقتها رماحنا",
+    "poet_id": 583,
+    "topic_id": 29,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 29
+  },
+  {
+    "id": 25884,
+    "name": "أفر منهم حذارا أن ألاقيهم",
+    "poet_id": 583,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 18
+  },
+  {
+    "id": 25885,
+    "name": "كذبت لقد نالت قضاعة منكم",
+    "poet_id": 584,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 31
+  },
+  {
+    "id": 25886,
+    "name": "معاوي إني قد ذهبت بوسمة",
+    "poet_id": 584,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 9
+  },
+  {
+    "id": 25887,
+    "name": "وأبغي صواب الظن أعلم أنه",
+    "poet_id": 585,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25888,
+    "name": "عفا أبرق العزاف من أم جابر",
+    "poet_id": 586,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25889,
+    "name": "لقينا الروم ضاحية",
+    "poet_id": 587,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 9
+  },
+  {
+    "id": 25890,
+    "name": "أهلكنا الليل والنهار معا",
+    "poet_id": 588,
+    "topic_id": 28,
+    "type_id": 1,
+    "sea_id": 24,
+    "quafia_id": 26
+  },
+  {
+    "id": 25891,
+    "name": "يا من رأى ظعنا تيمم صرخدا",
+    "poet_id": 588,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 5
+  },
+  {
+    "id": 25892,
+    "name": "يا رب أنت على الأنام مسلط",
+    "poet_id": 589,
+    "topic_id": 28,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 16
+  },
+  {
+    "id": 25893,
+    "name": "لما رأيت أنني مطروح",
+    "poet_id": 590,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25894,
+    "name": "فسيري واتركي أذناب كلب",
+    "poet_id": 591,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 1
+  },
+  {
+    "id": 25895,
+    "name": "جزاني جزاه الله شر جزائه",
+    "poet_id": 592,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 9
+  },
+  {
+    "id": 25896,
+    "name": "تمنيت أن ألقى رقاش قتلتها",
+    "poet_id": 593,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 9
+  },
+  {
+    "id": 25897,
+    "name": "فيا لك نصحة لما نذقها",
+    "poet_id": 594,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": null
+  },
+  {
+    "id": 25898,
+    "name": "ألم تعلموا أني أنا الليث عاديا",
+    "poet_id": 595,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 31
+  },
+  {
+    "id": 25899,
+    "name": "صبرت لهم حديرة يوم مثر",
+    "poet_id": 595,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 18
+  },
+  {
+    "id": 25900,
+    "name": "لقد عمرت زمانا ما يخالفني",
+    "poet_id": 596,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 18
+  },
+  {
+    "id": 25901,
+    "name": "ألا أصبحت أسماء في الخمر تعذل",
+    "poet_id": 597,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 31
+  },
+  {
+    "id": 25902,
+    "name": "ولكني ربيعة بن حصن",
+    "poet_id": 598,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 9
+  },
+  {
+    "id": 25903,
+    "name": "ونحن أخذنا من حداجة عرشه",
+    "poet_id": 599,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 33
+  },
+  {
+    "id": 25904,
+    "name": "قد سبقت غضبى بيوم المقوس",
+    "poet_id": 600,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25905,
+    "name": "فإن أهلك فقد أورثت خيرا",
+    "poet_id": 601,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 31
+  },
+  {
+    "id": 25906,
+    "name": "أعزي يا جبيل دمي وهزي",
+    "poet_id": 602,
+    "topic_id": 29,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 9
+  },
+  {
+    "id": 25907,
+    "name": "فلا يغرركم مني ربيع",
+    "poet_id": 603,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 33
+  },
+  {
+    "id": 25908,
+    "name": "رأيت لمسعود بن بحر مزية",
+    "poet_id": 603,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25909,
+    "name": "أرى قومي بني قطن أرادوا",
+    "poet_id": 604,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 31
+  },
+  {
+    "id": 25910,
+    "name": "لا تعذليني في نقضي وفي فرسي",
+    "poet_id": 605,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 33
+  },
+  {
+    "id": 25911,
+    "name": "لم يدع الدهر لنا ذخيرة",
+    "poet_id": 606,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": null,
+    "quafia_id": null
+  },
+  {
+    "id": 25912,
+    "name": "أأعجبك الزخرف رحل قيس",
+    "poet_id": 607,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 31
+  },
+  {
+    "id": 25913,
+    "name": "ولولا جري حومل يوم عذر",
+    "poet_id": 608,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 14
+  },
+  {
+    "id": 25914,
+    "name": "لا آكل الميتة ما عمرت",
+    "poet_id": 608,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 11,
+    "quafia_id": 29
+  },
+  {
+    "id": 25915,
+    "name": "ونجا إياسا سابح ذو علالة",
+    "poet_id": 608,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 9
+  },
+  {
+    "id": 25916,
+    "name": "نفرت قلوصي من عتائر صرعت",
+    "poet_id": 609,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 32
+  },
+  {
+    "id": 25917,
+    "name": "يا عمرو هل عجبت من فلو الرحى",
+    "poet_id": 610,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": null
+  },
+  {
+    "id": 25918,
+    "name": "هل ما جزيناهم قتلى على لثم",
+    "poet_id": 611,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 32
+  },
+  {
+    "id": 25919,
+    "name": "أذود القوافي عني ذيادا",
+    "poet_id": 612,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 19,
+    "quafia_id": 16
+  },
+  {
+    "id": 25920,
+    "name": "نأتك بسلمى دارها لا تزورها",
+    "poet_id": 613,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25921,
+    "name": "أتعرف رسما كالرداء المحبر",
+    "poet_id": 614,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25922,
+    "name": "أرسم ديار بالستارين تعرف",
+    "poet_id": 614,
+    "topic_id": 19,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 28
+  },
+  {
+    "id": 25923,
+    "name": "ألا هل فؤادي إذ صبا اليوم نازع",
+    "poet_id": 614,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 26
+  },
+  {
+    "id": 25924,
+    "name": "بنو سليم أسرتي في الوغى",
+    "poet_id": 615,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 11,
+    "quafia_id": 31
+  },
+  {
+    "id": 25925,
+    "name": "ألا يا بيت بالعلياء بيت",
+    "poet_id": 615,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 10
+  },
+  {
+    "id": 25926,
+    "name": "زعم الغواني أن أردن صريمتي",
+    "poet_id": 616,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 10
+  },
+  {
+    "id": 25927,
+    "name": "ألا قالت غزية إذ رأتني",
+    "poet_id": 617,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 31
+  },
+  {
+    "id": 25928,
+    "name": "لما رأيت عدي ضمرة فيهم",
+    "poet_id": 618,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 32
+  },
+  {
+    "id": 25929,
+    "name": "تذكر أم عبد الله لما",
+    "poet_id": 619,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 13
+  },
+  {
+    "id": 25930,
+    "name": "تقول العاذلات أكل يوم",
+    "poet_id": 620,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 14
+  },
+  {
+    "id": 25931,
+    "name": "لعمرك أنسى روعتي يوم أقتد",
+    "poet_id": 621,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 26
+  },
+  {
+    "id": 25932,
+    "name": "يا حار إنيريا ابن أم عميد",
+    "poet_id": 621,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 16
+  },
+  {
+    "id": 25933,
+    "name": "لعمرك ما ونى ابن أبي أنيس",
+    "poet_id": 622,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 26
+  },
+  {
+    "id": 25934,
+    "name": "فدى لبني لحيان أمي وخالتي",
+    "poet_id": 623,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 9
+  },
+  {
+    "id": 25935,
+    "name": "لما رأيت عدي القوم يسلبهم",
+    "poet_id": 623,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 32
+  },
+  {
+    "id": 25936,
+    "name": "لإلدك أصحابي فلا تزدهيهم",
+    "poet_id": 623,
+    "topic_id": 2,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 9
+  },
+  {
+    "id": 25937,
+    "name": "فدى لبني لحيان أمي فإنهم",
+    "poet_id": 623,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 29
+  },
+  {
+    "id": 25938,
+    "name": "أمال بن عوف إنما الغزو بيننا",
+    "poet_id": 623,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25939,
+    "name": "فتى ما ابن الأغر إذا شتونا",
+    "poet_id": 623,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 14
+  },
+  {
+    "id": 25940,
+    "name": "يا مي إن تفقدي قوما ولدتهم",
+    "poet_id": 623,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 21
+  },
+  {
+    "id": 25941,
+    "name": "ولقد أتاكم ما تصوب سيوفنا",
+    "poet_id": 624,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 32
+  },
+  {
+    "id": 25942,
+    "name": "ألا أبلغ بني ظفر رسولا",
+    "poet_id": 624,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 33
+  },
+  {
+    "id": 25943,
+    "name": "ألا ليت جيش العير لاقوا كتيبة",
+    "poet_id": 624,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 31
+  },
+  {
+    "id": 25944,
+    "name": "ماذا يغير ابنتي ربع عويلهما",
+    "poet_id": 624,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 16
+  },
+  {
+    "id": 25945,
+    "name": "أعبد الله ينذر يا لسعد",
+    "poet_id": 625,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 31
+  },
+  {
+    "id": 25946,
+    "name": "كرهت جذيمة العبدي لما",
+    "poet_id": 625,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 31
+  },
+  {
+    "id": 25947,
+    "name": "لما رأيت القوم بالعلياء",
+    "poet_id": 625,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 39,
+    "quafia_id": 9
+  },
+  {
+    "id": 25948,
+    "name": "فلم تغلب أسنتنا زبيد",
+    "poet_id": 626,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 16
+  },
+  {
+    "id": 25949,
+    "name": "كأني في كدادة عن غطيف",
+    "poet_id": 627,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 18
+  },
+  {
+    "id": 25950,
+    "name": "وأي بلاد الله أو أي قيعة",
+    "poet_id": 627,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25951,
+    "name": "وما كان من نسر هجف قتلته",
+    "poet_id": 628,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 16
+  },
+  {
+    "id": 25952,
+    "name": "ويوم جراد لم ندع لربيعة",
+    "poet_id": 629,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 26
+  },
+  {
+    "id": 25953,
+    "name": "عادات أسيافنا يوما إذا صدئت",
+    "poet_id": 630,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 33
+  },
+  {
+    "id": 25954,
+    "name": "ألا أبلغ لديك بني سليم",
+    "poet_id": 631,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 9
+  },
+  {
+    "id": 25955,
+    "name": "لو أن رأيا يثيب المرء ثوبني",
+    "poet_id": 632,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 33
+  },
+  {
+    "id": 25956,
+    "name": "كفاني الله بعد السير إني",
+    "poet_id": 633,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 9
+  },
+  {
+    "id": 25957,
+    "name": "لما رأيت الخيل جئن أفانحا",
+    "poet_id": 634,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 9
+  },
+  {
+    "id": 25958,
+    "name": "لقعقعة اللجام برأس طرف",
+    "poet_id": 635,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 33
+  },
+  {
+    "id": 25959,
+    "name": "أيرسل عمرو بالوعيد سفاهة",
+    "poet_id": 636,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25960,
+    "name": "إذا المرء لم يستر عن الذم عرضه",
+    "poet_id": 637,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 16
+  },
+  {
+    "id": 25961,
+    "name": "أتاني ورحلي عند جفنة وقعة",
+    "poet_id": 638,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25962,
+    "name": "فلا وأبيكما سيف بن عمرو",
+    "poet_id": 639,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 18
+  },
+  {
+    "id": 25963,
+    "name": "يا لهمدان بن زيد إنما",
+    "poet_id": 640,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 10,
+    "quafia_id": 16
+  },
+  {
+    "id": 25964,
+    "name": "أبلغ معاوية الممزق آية",
+    "poet_id": 641,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 31
+  },
+  {
+    "id": 25965,
+    "name": "وقائلة ما بال دوسر بعدنا",
+    "poet_id": 642,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 16
+  },
+  {
+    "id": 25966,
+    "name": "ألم تعجب لذئب بات يسري",
+    "poet_id": 643,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 29
+  },
+  {
+    "id": 25967,
+    "name": "ولما رأين بني عاصم",
+    "poet_id": 643,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 19,
+    "quafia_id": 33
+  },
+  {
+    "id": 25968,
+    "name": "لما رأت إبلي جاءت حلوبتها",
+    "poet_id": 643,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 29
+  },
+  {
+    "id": 25969,
+    "name": "حلت تماضر غربة فاحتلت",
+    "poet_id": 644,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 10
+  },
+  {
+    "id": 25970,
+    "name": "ألا تلكما عرسي تصد بوجهها",
+    "poet_id": 644,
+    "topic_id": 2,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25971,
+    "name": "ولقد أمرت أخاك عمرا أمره",
+    "poet_id": 645,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 32
+  },
+  {
+    "id": 25972,
+    "name": "وجرف سبسب يجري",
+    "poet_id": 646,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 26,
+    "quafia_id": 9
+  },
+  {
+    "id": 25973,
+    "name": "أبلغ لديك أبا خليد وائلا",
+    "poet_id": 647,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 9
+  },
+  {
+    "id": 25974,
+    "name": "قل لابن كلثوم الساعي بذمته",
+    "poet_id": 647,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 29
+  },
+  {
+    "id": 25975,
+    "name": "أبى الرسم بالجونين أن يتحولا",
+    "poet_id": 648,
+    "topic_id": 29,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 31
+  },
+  {
+    "id": 25976,
+    "name": "من مبلغ فتيان يشكر أنني",
+    "poet_id": 649,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25977,
+    "name": "أرقت فلم تخدع بعيني خدعة",
+    "poet_id": 649,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25978,
+    "name": "ولما رأى زيدا أتاها بسيفه",
+    "poet_id": 650,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 16
+  },
+  {
+    "id": 25979,
+    "name": "نبهت زيدا فلم أفزع إلى وكل",
+    "poet_id": 650,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 18
+  },
+  {
+    "id": 25980,
+    "name": "بانت صدوف فقلبه مخطوف",
+    "poet_id": 650,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 28
+  },
+  {
+    "id": 25981,
+    "name": "إني ونحلة ما بقيت لها",
+    "poet_id": 650,
+    "topic_id": 5,
+    "type_id": 1,
+    "sea_id": 1,
+    "quafia_id": 14
+  },
+  {
+    "id": 25982,
+    "name": "إني رأيت أبا شيماء متلها",
+    "poet_id": 650,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 4,
+    "quafia_id": 9
+  },
+  {
+    "id": 25983,
+    "name": "صحوت وزايلني باطلي",
+    "poet_id": 651,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 19,
+    "quafia_id": 31
+  },
+  {
+    "id": 25984,
+    "name": "أجبيل إن أباك كارب يومه",
+    "poet_id": 651,
+    "topic_id": 7,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 31
+  },
+  {
+    "id": 25985,
+    "name": "أجد القلب من سلمى اجتنابا",
+    "poet_id": 652,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 9
+  },
+  {
+    "id": 25986,
+    "name": "طرقت أمامة والمزار بعيد",
+    "poet_id": 652,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 15,
+    "quafia_id": 16
+  },
+  {
+    "id": 25987,
+    "name": "أولى فأولى يا امرأ القيس بعدما",
+    "poet_id": 653,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25988,
+    "name": "ألا أبلغ بني شيبان عني",
+    "poet_id": 653,
+    "topic_id": 22,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 26
+  },
+  {
+    "id": 25989,
+    "name": "أحيا أباه هاشم بن حرملة",
+    "poet_id": 654,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 9,
+    "quafia_id": 11
+  },
+  {
+    "id": 25990,
+    "name": "عفا من آل فاطمة الفقير",
+    "poet_id": 654,
+    "topic_id": 16,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 18
+  },
+  {
+    "id": 25991,
+    "name": "من مبلغ سعد بن نعمان مألكا",
+    "poet_id": 654,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 32
+  },
+  {
+    "id": 25992,
+    "name": "تأوبه خيال من سليمى",
+    "poet_id": 655,
+    "topic_id": 27,
+    "type_id": 1,
+    "sea_id": 27,
+    "quafia_id": 32
+  },
+  {
+    "id": 25993,
+    "name": "إذا ما غدوتم عامدين لأرضنا",
+    "poet_id": 655,
+    "topic_id": 24,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 18
+  },
+  {
+    "id": 25994,
+    "name": "ذاك أبو ليلى أتاني نعيه",
+    "poet_id": 656,
+    "topic_id": 10,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 26
+  },
+  {
+    "id": 25995,
+    "name": "أقمنا على قيس عشية بارق",
+    "poet_id": 657,
+    "topic_id": 26,
+    "type_id": 1,
+    "sea_id": 13,
+    "quafia_id": 30
+  }
+]

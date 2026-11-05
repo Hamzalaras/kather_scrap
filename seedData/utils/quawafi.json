@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "name_ar": "قافية الألف (ا)",
+    "name_en": "q-ا",
+    "aliases": [
+      "ا",
+      "alif"
+    ]
+  },
+  {
+    "id": 2,
+    "name_ar": "قافية ألف الهمزة (أ)",
+    "name_en": "q-أ",
+    "aliases": [
+      "أ",
+      "alif hamza"
+    ]
+  },
+  {
+    "id": 3,
+    "name_ar": "قافية الألف (إ)",
+    "name_en": "q-إ",
+    "aliases": [
+      "إ",
+      "alif hamza kasra"
+    ]
+  },
+  {
+    "id": 4,
+    "name_ar": "قافية ألف المدة (آ)",
+    "name_en": "q-آ",
+    "aliases": [
+      "آ",
+      "alif madda"
+    ]
+  },
+  {
+    "id": 5,
+    "name_ar": "قافية الهمزة (ء)",
+    "name_en": "q-ء",
+    "aliases": [
+      "ء",
+      "hamza"
+    ]
+  },
+  {
+    "id": 6,
+    "name_ar": "قافية ياء همزة (ئ)",
+    "name_en": "q-ئ",
+    "aliases": [
+      "ئ",
+      "hamza 'ala ya"
+    ]
+  },
+  {
+    "id": 7,
+    "name_ar": "قافية واو همزة (ؤ)",
+    "name_en": "q-ؤ",
+    "aliases": [
+      "ؤ",
+      "hamza 'ala waw"
+    ]
+  },
+  {
+    "id": 8,
+    "name_ar": "قافية الياء (ى)",
+    "name_en": "q-ى",
+    "aliases": [
+      "ى",
+      "alif maqsura"
+    ]
+  },
+  {
+    "id": 9,
+    "name_ar": "قافية الباء (ب)",
+    "name_en": "q-ب",
+    "aliases": [
+      "ب",
+      "baa"
+    ]
+  },
+  {
+    "id": 10,
+    "name_ar": "قافية التاء (ت)",
+    "name_en": "q-ت",
+    "aliases": [
+      "ت",
+      "taa"
+    ]
+  },
+  {
+    "id": 11,
+    "name_ar": "قافية التاء المربوطة (ة)",
+    "name_en": "q-ة",
+    "aliases": [
+      "ة",
+      "taa marbuta"
+    ]
+  },
+  {
+    "id": 12,
+    "name_ar": "قافية الثاء (ث)",
+    "name_en": "q-ث",
+    "aliases": [
+      "ث",
+      "thaa"
+    ]
+  },
+  {
+    "id": 13,
+    "name_ar": "قافية الجيم (ج)",
+    "name_en": "q-ج",
+    "aliases": [
+      "ج",
+      "jeem"
+    ]
+  },
+  {
+    "id": 14,
+    "name_ar": "قافية الحاء (ح)",
+    "name_en": "q-ح",
+    "aliases": [
+      "ح",
+      "haa"
+    ]
+  },
+  {
+    "id": 15,
+    "name_ar": "قافية الخاء (خ)",
+    "name_en": "q-خ",
+    "aliases": [
+      "خ",
+      "khaa"
+    ]
+  },
+  {
+    "id": 16,
+    "name_ar": "قافية الدال (د)",
+    "name_en": "q-د",
+    "aliases": [
+      "د",
+      "daal"
+    ]
+  },
+  {
+    "id": 17,
+    "name_ar": "قافية الذال (ذ)",
+    "name_en": "q-ذ",
+    "aliases": [
+      "ذ",
+      "thaal"
+    ]
+  },
+  {
+    "id": 18,
+    "name_ar": "قافية الراء (ر)",
+    "name_en": "q-ر",
+    "aliases": [
+      "ر",
+      "raa"
+    ]
+  },
+  {
+    "id": 19,
+    "name_ar": "قافية الزاى (ز)",
+    "name_en": "q-ز",
+    "aliases": [
+      "ز",
+      "zaay"
+    ]
+  },
+  {
+    "id": 20,
+    "name_ar": "قافية الشين (ش)",
+    "name_en": "q-ش",
+    "aliases": [
+      "ش",
+      "sheen"
+    ]
+  },
+  {
+    "id": 21,
+    "name_ar": "قافية السين (س)",
+    "name_en": "q-س",
+    "aliases": [
+      "س",
+      "seen"
+    ]
+  },
+  {
+    "id": 22,
+    "name_ar": "قافية الصاد (ص)",
+    "name_en": "q-ص",
+    "aliases": [
+      "ص",
+      "saad"
+    ]
+  },
+  {
+    "id": 23,
+    "name_ar": "قافية الضاد (ض)",
+    "name_en": "q-ض",
+    "aliases": [
+      "ض",
+      "daad"
+    ]
+  },
+  {
+    "id": 24,
+    "name_ar": "قافية الطاء (ط)",
+    "name_en": "q-ط",
+    "aliases": [
+      "ط",
+      "taa-strident"
+    ]
+  },
+  {
+    "id": 25,
+    "name_ar": "قافية الظاء (ظ)",
+    "name_en": "q-ظ",
+    "aliases": [
+      "ظ",
+      "zaa"
+    ]
+  },
+  {
+    "id": 26,
+    "name_ar": "قافية العين (ع)",
+    "name_en": "q-ع",
+    "aliases": [
+      "ع",
+      "ayn"
+    ]
+  },
+  {
+    "id": 27,
+    "name_ar": "قافية الغين (غ)",
+    "name_en": "q-غ",
+    "aliases": [
+      "غ",
+      "ghayn"
+    ]
+  },
+  {
+    "id": 28,
+    "name_ar": "قافية الفاء (ف)",
+    "name_en": "q-ف",
+    "aliases": [
+      "ف",
+      "faa"
+    ]
+  },
+  {
+    "id": 29,
+    "name_ar": "قافية القاف (ق)",
+    "name_en": "q-ق",
+    "aliases": [
+      "ق",
+      "qaaf"
+    ]
+  },
+  {
+    "id": 30,
+    "name_ar": "قافية الكاف (ك)",
+    "name_en": "q-ك",
+    "aliases": [
+      "ك",
+      "kaaf"
+    ]
+  },
+  {
+    "id": 31,
+    "name_ar": "قافية اللام (ل)",
+    "name_en": "q-ل",
+    "aliases": [
+      "ل",
+      "laam"
+    ]
+  },
+  {
+    "id": 32,
+    "name_ar": "قافية الميم (م)",
+    "name_en": "q-م",
+    "aliases": [
+      "م",
+      "meem"
+    ]
+  },
+  {
+    "id": 33,
+    "name_ar": "قافية النون (ن)",
+    "name_en": "q-ن",
+    "aliases": [
+      "ن",
+      "noon"
+    ]
+  },
+  {
+    "id": 34,
+    "name_ar": "قافية الهاء (ه)",
+    "name_en": "q-ه",
+    "aliases": [
+      "ه",
+      "haa-soft"
+    ]
+  },
+  {
+    "id": 35,
+    "name_ar": "قافية الواو (و)",
+    "name_en": "q-و",
+    "aliases": [
+      "و",
+      "waw"
+    ]
+  },
+  {
+    "id": 36,
+    "name_ar": "قافية الياء (ي)",
+    "name_en": "q-ي",
+    "aliases": [
+      "ي",
+      "yaa"
+    ]
+  }
+]
