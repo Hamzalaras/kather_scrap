@@ -194,16 +194,11 @@ const declancher = async () => {
         const fileNum = fileName.replace('.json', '').replace('poems', '');
         
         const expectedExplFile = `poems${fileNum}.json`;
-        const expectedErrorFile = `errors${fileNum}.json`;
         const donePoemIds = new Set();
 
         if (explanationsFiles.includes(expectedExplFile)) {
             const explData = await getContentOfJsonFile(`../seedData/explanations/${expectedExplFile}`);
             explData.forEach(item => donePoemIds.add(item.poemId));
-        }
-        if (explanationsFiles.includes(expectedErrorFile)) {
-             const errorData = await getContentOfJsonFile(`../seedData/explanations/${expectedErrorFile}`);
-             errorData.forEach(item => donePoemIds.add(item.poemId));
         }
 
         const poemsLinks = await getContentOfJsonFile(`../seedData/poemsLinks/${fileName}`);
