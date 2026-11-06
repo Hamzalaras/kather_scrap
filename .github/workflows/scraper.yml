@@ -8,9 +8,6 @@ on:
 jobs:
   scrape-data:
     runs-on: ubuntu-latest
-    
-    timeout-minutes: 210 
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -28,9 +25,11 @@ jobs:
 
       - name: Run Scraper
         continue-on-error: true 
+        timeout-minutes: 205
         run: node scrapPoemsExplanations/scrapPoemsExplanations.js 
 
       - name: Commit and Push generated JSON files
+        if: always()
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
