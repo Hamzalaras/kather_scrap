@@ -160,5 +160,29 @@
     "poetId": 1805,
     "link": "https://www.aldiwan.net/poem71231.html",
     "error": "page.evaluate: Error: Status code: 502\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 62962,
+    "poetId": 1685,
+    "link": "https://www.aldiwan.net/poem83906.html",
+    "error": "page.evaluate: Error: Status code: 404\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 67766,
+    "poetId": 1744,
+    "link": "https://www.aldiwan.net/poem78927.html",
+    "error": "page.evaluate: Error: Status code: 404\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 74965,
+    "poetId": 1811,
+    "link": "https://www.aldiwan.net/poem70560.html",
+    "error": "page.evaluate: Error: Status code: 500\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 75219,
+    "poetId": 1811,
+    "link": "https://www.aldiwan.net/poem70304.html",
+    "error": "page.evaluate: Error: Status code: 500\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
   }
 ]
