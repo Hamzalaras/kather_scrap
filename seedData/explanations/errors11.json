@@ -358,5 +358,257 @@
     "poetId": 1865,
     "link": "https://www.aldiwan.net/poem58052.html",
     "error": "page.evaluate: Error: Status code: 500\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93484,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47853.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93488,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47849.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93489,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47848.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93493,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47844.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93497,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47840.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93501,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47836.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93502,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47835.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93506,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47831.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93507,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47830.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93511,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47826.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93515,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47821.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93519,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47817.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93522,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47814.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93523,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47813.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93524,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47812.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93528,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47808.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93529,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47807.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93532,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47804.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93533,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47803.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93534,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47802.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93538,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47798.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93542,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47794.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93543,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47793.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93546,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47790.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93547,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47789.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93550,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47786.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93551,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47785.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93555,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47781.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93556,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47780.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93560,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47775.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93564,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47771.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93567,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47768.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93568,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47767.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93569,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47766.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93573,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47762.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93574,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47761.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93578,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47757.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93579,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47756.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93582,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47753.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93583,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47752.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93587,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47748.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93588,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47747.html",
+    "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
   }
 ]
