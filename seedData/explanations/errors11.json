@@ -610,5 +610,161 @@
     "poetId": 1914,
     "link": "https://www.aldiwan.net/poem47747.html",
     "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93773,
+    "poetId": 1914,
+    "link": "https://www.aldiwan.net/poem47273.html",
+    "error": "page.evaluate: Error: Status code: 520\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93924,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47123.html",
+    "error": "page.evaluate: Error: Status code: 500\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93927,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47120.html",
+    "error": "page.evaluate: Error: Status code: 520\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93928,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47119.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93929,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47118.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93930,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47117.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93931,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47116.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93932,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47115.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93933,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47114.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93934,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47113.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93935,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47112.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93936,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47111.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93937,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47110.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93938,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47109.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93939,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47108.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93940,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47107.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93941,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47106.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93942,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47105.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93943,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47104.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93944,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47103.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93945,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47102.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93946,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47101.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93947,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47100.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93948,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47099.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93949,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47098.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 93950,
+    "poetId": 1915,
+    "link": "https://www.aldiwan.net/poem47097.html",
+    "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
   }
 ]
