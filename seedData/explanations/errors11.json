@@ -766,5 +766,23 @@
     "poetId": 1915,
     "link": "https://www.aldiwan.net/poem47097.html",
     "error": "page.evaluate: Error: Status code: 522\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 94438,
+    "poetId": 1917,
+    "link": "https://www.aldiwan.net/poem46235.html",
+    "error": "page.evaluate: Error: Status code: 520\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 94463,
+    "poetId": 1918,
+    "link": "https://www.aldiwan.net/poem46013.html",
+    "error": "page.evaluate: Error: Status code: 500\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 94465,
+    "poetId": 1918,
+    "link": "https://www.aldiwan.net/poem46011.html",
+    "error": "page.evaluate: Error: Status code: 500\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
   }
 ]
