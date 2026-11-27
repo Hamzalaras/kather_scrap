@@ -784,5 +784,11 @@
     "poetId": 1918,
     "link": "https://www.aldiwan.net/poem46011.html",
     "error": "page.evaluate: Error: Status code: 500\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 99198,
+    "poetId": 1937,
+    "link": "https://www.aldiwan.net/poem40065.html",
+    "error": "page.evaluate: Error: Status code: 524\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
   }
 ]
