@@ -2644,5 +2644,17 @@
     "poetId": 1944,
     "link": "https://www.aldiwan.net/poem39025.html",
     "error": "page.evaluate: Error: Status code: 429\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 101367,
+    "poetId": 1946,
+    "link": "https://www.aldiwan.net/poem39678.html",
+    "error": "page.evaluate: Error: Status code: 524\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
+  },
+  {
+    "poemId": 101368,
+    "poetId": 1946,
+    "link": "https://www.aldiwan.net/poem39677.html",
+    "error": "page.evaluate: Error: Status code: 524\n    at eval (eval at evaluate (:370:30), <anonymous>:11:19)\n    at async <anonymous>:396:30"
   }
 ]
